@@ -1,0 +1,21 @@
+# Virtual environment (nama folder venv umum: venv/, .venv/, env/)
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache HTML mentah hasil scraping (bukan deliverable, hanya untuk mempercepat development)
+Data Scraping/src/.html_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
