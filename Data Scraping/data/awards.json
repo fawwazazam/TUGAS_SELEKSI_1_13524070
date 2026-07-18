@@ -1,0 +1,776 @@
+[
+  {
+    "award_type": "Regular Season MVP",
+    "season_number": 12,
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "team_name": "ONIC Esports",
+    "team_name_raw": "ONIC Esports",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Regular Season MVP",
+    "season_number": 13,
+    "player_name": "EMANN",
+    "player_name_raw": "EMANN",
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Regular Season MVP",
+    "season_number": 14,
+    "player_name": "Faviannn",
+    "player_name_raw": "Faviannn",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Regular Season MVP",
+    "season_number": 15,
+    "player_name": "Idok",
+    "player_name_raw": "Idok",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "Regular Season MVP",
+    "season_number": 16,
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Finals MVP",
+    "season_number": 12,
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "team_name": "ONIC Esports",
+    "team_name_raw": "ONIC Esports",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "Finals MVP",
+    "season_number": 13,
+    "player_name": "CW",
+    "player_name_raw": "CW",
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Finals MVP",
+    "season_number": 14,
+    "player_name": "Widy",
+    "player_name_raw": "Widy",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "Finals MVP",
+    "season_number": 15,
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Finals MVP",
+    "season_number": 16,
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Most Improved",
+    "season_number": 12,
+    "player_name": "Caderaa",
+    "player_name_raw": "Caderaa",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Most Improved",
+    "season_number": 13,
+    "player_name": "Moreno",
+    "player_name_raw": "Moreno",
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Most Improved",
+    "season_number": 14,
+    "player_name": "Yehezkiel",
+    "player_name_raw": "Yehezkiel",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Most Improved",
+    "season_number": 15,
+    "player_name": "Nino",
+    "player_name_raw": "Nino",
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "Most Improved",
+    "season_number": 16,
+    "player_name": "Octa",
+    "player_name_raw": "Octa",
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Rising Star",
+    "season_number": 12,
+    "player_name": "Nnael",
+    "player_name_raw": "Nnael",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Rookie of The Season",
+    "season_number": 12,
+    "player_name": "Nnael",
+    "player_name_raw": "Nnael",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Rookie of The Season",
+    "season_number": 13,
+    "player_name": "Gugun",
+    "player_name_raw": "Gugun",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Rookie of The Season",
+    "season_number": 14,
+    "player_name": "Faviannn",
+    "player_name_raw": "Faviannn",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Rookie of The Season",
+    "season_number": 15,
+    "player_name": "Maykids",
+    "player_name_raw": "Maykids",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Rookie of The Season",
+    "season_number": 16,
+    "player_name": "Shogun",
+    "player_name_raw": "Shogun",
+    "team_name": "Team Vitality",
+    "team_name_raw": "Team Vitality",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 13,
+    "player_name": "Lutpiii",
+    "player_name_raw": "Lutpiii",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 14,
+    "player_name": "Dyrennn",
+    "player_name_raw": "Dyrennn",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 15,
+    "player_name": "Dyrennn",
+    "player_name_raw": "Dyrennn",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 16,
+    "player_name": "Lutpiii",
+    "player_name_raw": "Lutpii",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 13,
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 14,
+    "player_name": "Sutsujin",
+    "player_name_raw": "Sutsujin",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 15,
+    "player_name": "Sutsujin",
+    "player_name_raw": "Sutsujin",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 16,
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 13,
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 14,
+    "player_name": "Rinz",
+    "player_name_raw": "Rinz",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 15,
+    "player_name": "Rinz",
+    "player_name_raw": "Rinz",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 16,
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 13,
+    "player_name": "Skylar",
+    "player_name_raw": "Skylar",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 14,
+    "player_name": "Skylar",
+    "player_name_raw": "Skylar",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 15,
+    "player_name": "Toyy",
+    "player_name_raw": "Toyy",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 16,
+    "player_name": "Skylar",
+    "player_name_raw": "Skylar",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 13,
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 14,
+    "player_name": "Idok",
+    "player_name_raw": "Idok",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 15,
+    "player_name": "Idok",
+    "player_name_raw": "Idok",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "Dream Team",
+    "season_number": 16,
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 12,
+    "player_name": "Butss",
+    "player_name_raw": "Butsss",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 13,
+    "player_name": "Fluffy",
+    "player_name_raw": "Fluffy",
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 14,
+    "player_name": "Dyrennn",
+    "player_name_raw": "Dyrennn",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 15,
+    "player_name": "Dyrennn",
+    "player_name_raw": "Dyrennn",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 16,
+    "player_name": "Shogun",
+    "player_name_raw": "Shogun",
+    "team_name": "Team Vitality",
+    "team_name_raw": "Team Vitality",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 12,
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 13,
+    "player_name": "Super Kenn",
+    "player_name_raw": "Super Kenn",
+    "team_name": "Team Vitality",
+    "team_name_raw": "Team Vitality",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 14,
+    "player_name": "Faviannn",
+    "player_name_raw": "Faviannn",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 15,
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 16,
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 12,
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 13,
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 14,
+    "player_name": "Rinz",
+    "player_name_raw": "Rinz",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 15,
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 16,
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 12,
+    "player_name": "Caderaa",
+    "player_name_raw": "Caderaa",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 13,
+    "player_name": "EMANN",
+    "player_name_raw": "EMANN",
+    "team_name": "Team Vitality",
+    "team_name_raw": "Team Vitality",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 14,
+    "player_name": "Skylar",
+    "player_name_raw": "Skylar",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 15,
+    "player_name": "EMANN",
+    "player_name_raw": "EMANN",
+    "team_name": "Team Vitality",
+    "team_name_raw": "Team Vitality",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 16,
+    "player_name": "EMANN",
+    "player_name_raw": "EMANN",
+    "team_name": "Team Vitality",
+    "team_name_raw": "Team Vitality",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 12,
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 13,
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 14,
+    "player_name": "Idok",
+    "player_name_raw": "Idok",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 15,
+    "player_name": "Idok",
+    "player_name_raw": "Idok",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "First Team",
+    "season_number": 16,
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 13,
+    "player_name": "Lutpiii",
+    "player_name_raw": "Lutpiii",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 14,
+    "player_name": "Aran",
+    "player_name_raw": "Aran",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 15,
+    "player_name": "Nino",
+    "player_name_raw": "Nino",
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 16,
+    "player_name": "Lutpiii",
+    "player_name_raw": "Lutpiii",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "EXP Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 13,
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 14,
+    "player_name": "Sutsujin",
+    "player_name_raw": "Sutsujin",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 15,
+    "player_name": "Maykids",
+    "player_name_raw": "Maykids",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 16,
+    "player_name": "Nnael",
+    "player_name_raw": "Nnael",
+    "team_name": "Team Vitality",
+    "team_name_raw": "Team Vitality",
+    "role": "Jungler"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 13,
+    "player_name": "Moreno",
+    "player_name_raw": "Moreno",
+    "team_name": "Team Vitality",
+    "team_name_raw": "Team Vitality",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 14,
+    "player_name": "Yehezkiel",
+    "player_name_raw": "Yehezkiel",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 15,
+    "player_name": "A B O Y",
+    "player_name_raw": "Aboy",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 16,
+    "player_name": "Moreno",
+    "player_name_raw": "Moreno",
+    "team_name": "Team Vitality",
+    "team_name_raw": "Team Vitality",
+    "role": "Mid Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 13,
+    "player_name": "Skylar",
+    "player_name_raw": "Skylar",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 14,
+    "player_name": "AeronnShikii",
+    "player_name_raw": "Aeron",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 15,
+    "player_name": "Toyy",
+    "player_name_raw": "Toyy",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 16,
+    "player_name": "Skylar",
+    "player_name_raw": "Skylar",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "role": "Gold Laner"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 13,
+    "player_name": "Kyy",
+    "player_name_raw": "Kyy",
+    "team_name": "Team Vitality",
+    "team_name_raw": "Team Vitality",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 14,
+    "player_name": "Widy",
+    "player_name_raw": "Widy",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 15,
+    "player_name": "Baloyskie",
+    "player_name_raw": "Baloyskie",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "role": "Roamer"
+  },
+  {
+    "award_type": "Second Team",
+    "season_number": 16,
+    "player_name": "Alekk",
+    "player_name_raw": "alekk",
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "role": "Roamer"
+  }
+]

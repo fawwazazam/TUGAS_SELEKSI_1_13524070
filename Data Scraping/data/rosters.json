@@ -1,0 +1,5212 @@
+[
+  {
+    "season_number": 12,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Pai",
+    "player_name_raw": "PAI",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Celiboy",
+    "player_name_raw": "Celiboy",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Udil",
+    "player_name_raw": "Udil",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Nino",
+    "player_name_raw": "Nino",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Rasy",
+    "player_name_raw": "Rasy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Variety",
+    "player_name_raw": "Variety",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Rekt",
+    "player_name_raw": "Rekt",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Caesius",
+    "player_name_raw": "Caesius",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Nafari",
+    "player_name_raw": "Nafari",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Arss",
+    "player_name_raw": "Arss",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "status": "main",
+    "player_name": "Aran",
+    "player_name_raw": "Aran",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "status": "main",
+    "player_name": "VAN",
+    "player_name_raw": "VAN",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "status": "main",
+    "player_name": "Yehezkiel",
+    "player_name_raw": "Syn",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "status": "main",
+    "player_name": "Kabuki",
+    "player_name_raw": "Kabuki",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "status": "main",
+    "player_name": "High",
+    "player_name_raw": "High",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "status": "subs",
+    "player_name": "Kimura",
+    "player_name_raw": "Kimura",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "status": "subs",
+    "player_name": "Facehugger",
+    "player_name_raw": "Facehugger",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "status": "subs",
+    "player_name": "SamoHt",
+    "player_name_raw": "SamoHT",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "status": "staff",
+    "player_name": "Pahlevi",
+    "player_name_raw": "Pahlevi",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "status": "staff",
+    "player_name": "SaintDeLucaz",
+    "player_name_raw": "SaintDeLucaz",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Xorizo",
+    "player_name_raw": "Xorizo",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Super Kenn",
+    "player_name_raw": "Kenn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Moreno",
+    "player_name_raw": "Morenoo",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Xyve",
+    "player_name_raw": "Xyve",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Kyy",
+    "player_name_raw": "Kyy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "subs",
+    "player_name": "Narashi",
+    "player_name_raw": "Narashi",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "subs",
+    "player_name": "VYN",
+    "player_name_raw": "VYN",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "staff",
+    "player_name": "Aldo",
+    "player_name_raw": "Aldo",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "staff",
+    "player_name": "Razeboy",
+    "player_name_raw": "Razeboy",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "staff",
+    "player_name": "Falah",
+    "player_name_raw": "Falah",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Dyx0n",
+    "player_name_raw": "Dyx0n",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Lanaya",
+    "player_name_raw": "Lanaya",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Keyz",
+    "player_name_raw": "Keyz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Watt",
+    "player_name_raw": "Watt",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Shacco",
+    "player_name_raw": "Shacco",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Pendragon",
+    "player_name_raw": "Pendragon",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Reyy",
+    "player_name_raw": "Reyy",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Leomurphy",
+    "player_name_raw": "LeoMurphy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Jacklee",
+    "player_name_raw": "Jacklee",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Paddington",
+    "player_name_raw": "Paddington",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "main",
+    "player_name": "Vell",
+    "player_name_raw": "Veldora",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "main",
+    "player_name": "Sutsujin",
+    "player_name_raw": "Sutsujin",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "main",
+    "player_name": "Cr1te",
+    "player_name_raw": "Cr1te",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "main",
+    "player_name": "Branz",
+    "player_name_raw": "Branz",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "main",
+    "player_name": "Ivann",
+    "player_name_raw": "VaanStrong",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "subs",
+    "player_name": "Fluffy",
+    "player_name_raw": "Fluffy",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "subs",
+    "player_name": "Tazz",
+    "player_name_raw": "Tazz",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "subs",
+    "player_name": "Erlan",
+    "player_name_raw": "Douma",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "staff",
+    "player_name": "Age",
+    "player_name_raw": "Age",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "staff",
+    "player_name": "Caleb",
+    "player_name_raw": "Caleb",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "status": "staff",
+    "player_name": "TaxStump",
+    "player_name_raw": "TaxStump",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Luke",
+    "player_name_raw": "Luke",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Nnael",
+    "player_name_raw": "Nnael",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "A B O Y",
+    "player_name_raw": "Aboy",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Markyyyyy",
+    "player_name_raw": "Markyyyyy",
+    "nationality": "Philippines",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Baloyskie",
+    "player_name_raw": "Baloyskie",
+    "nationality": "Philippines",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "subs",
+    "player_name": "Caderaa",
+    "player_name_raw": "Caderaa",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Erpang",
+    "player_name_raw": "Ervan",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Butss",
+    "player_name_raw": "Butsss",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "nationality": "Philippines",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "CW",
+    "player_name_raw": "CW",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "subs",
+    "player_name": "Drian",
+    "player_name_raw": "Drian",
+    "nationality": "Indonesia",
+    "role": "Flex"
+  },
+  {
+    "season_number": 12,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "subs",
+    "player_name": "Alberttt",
+    "player_name_raw": "Alberttt",
+    "nationality": "Indonesia",
+    "role": "Flex"
+  },
+  {
+    "season_number": 12,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "Yeb",
+    "player_name_raw": "Yeb",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "Adi",
+    "player_name_raw": "Adi",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Zion",
+    "status": "main",
+    "player_name": "Karss",
+    "player_name_raw": "Karss",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Zion",
+    "status": "main",
+    "player_name": "Vincentt",
+    "player_name_raw": "Vincentt",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Zion",
+    "status": "main",
+    "player_name": "SwayLow",
+    "player_name_raw": "SwayLow",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Zion",
+    "status": "main",
+    "player_name": "Haiz",
+    "player_name_raw": "Haiz",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Zion",
+    "status": "main",
+    "player_name": "Audycs",
+    "player_name_raw": "AudyTzy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Zion",
+    "status": "subs",
+    "player_name": "Renbuu",
+    "player_name_raw": "Renbuu",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Zion",
+    "status": "staff",
+    "player_name": "Cikoo",
+    "player_name_raw": "Cikoo",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Zion",
+    "status": "staff",
+    "player_name": "Vivy",
+    "player_name_raw": "Vivy",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 12,
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "status": "main",
+    "player_name": "Banana",
+    "player_name_raw": "Banana",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "status": "main",
+    "player_name": "Ferxiic",
+    "player_name_raw": "Ferxiic",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 12,
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "status": "main",
+    "player_name": "Clayyy",
+    "player_name_raw": "Clay",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "status": "main",
+    "player_name": "Skylar",
+    "player_name_raw": "Skylar",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "status": "main",
+    "player_name": "Naomi",
+    "player_name_raw": "Naomi",
+    "nationality": "Myanmar",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 12,
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "status": "subs",
+    "player_name": "Dyrennn",
+    "player_name_raw": "Dyrennn",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "status": "subs",
+    "player_name": "Lemon",
+    "player_name_raw": "Lemon",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "status": "subs",
+    "player_name": "XINNN",
+    "player_name_raw": "Xinnn",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 12,
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "status": "staff",
+    "player_name": "Sayargyi",
+    "player_name_raw": "Zaya",
+    "nationality": "Myanmar",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 12,
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "status": "staff",
+    "player_name": "Rave",
+    "player_name_raw": "Rave",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Pai",
+    "player_name_raw": "Pai",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Tazz",
+    "player_name_raw": "Tazz",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Cr1te",
+    "player_name_raw": "Cr1te",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Nino",
+    "player_name_raw": "Nino",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Rasy",
+    "player_name_raw": "Rasy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Munsters",
+    "player_name_raw": "Munsters",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Celiboy",
+    "player_name_raw": "Celiboy",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Haiz",
+    "player_name_raw": "Haiz",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Rekt",
+    "player_name_raw": "R E K T",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Nafari",
+    "player_name_raw": "Nafari",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Arss",
+    "player_name_raw": "Arss",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Aldo",
+    "player_name_raw": "Aldo",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "status": "main",
+    "player_name": "Aran",
+    "player_name_raw": "Aran",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "status": "main",
+    "player_name": "Gugun",
+    "player_name_raw": "Gugun",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "status": "main",
+    "player_name": "Yehezkiel",
+    "player_name_raw": "YehezKiel",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "status": "main",
+    "player_name": "Kabuki",
+    "player_name_raw": "Kabuki",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "status": "main",
+    "player_name": "Yawi",
+    "player_name_raw": "Yawi",
+    "nationality": "Philippines",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "status": "subs",
+    "player_name": "High",
+    "player_name_raw": "High",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "status": "staff",
+    "player_name": "SaintDeLucaz",
+    "player_name_raw": "SaintDeLucaz",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "status": "staff",
+    "player_name": "Pahlevi",
+    "player_name_raw": "Pahlevi",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "status": "staff",
+    "player_name": "Facehugger",
+    "player_name_raw": "Facehugger",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Xorizo",
+    "player_name_raw": "Xorizo",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Super Kenn",
+    "player_name_raw": "Kenn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Moreno",
+    "player_name_raw": "Moreno",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "EMANN",
+    "player_name_raw": "EMANN",
+    "nationality": "Philippines",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Kyy",
+    "player_name_raw": "Kyy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "subs",
+    "player_name": "JM",
+    "player_name_raw": "Lord JM",
+    "nationality": "Philippines",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "staff",
+    "player_name": "Khezcute",
+    "player_name_raw": "Khezcute",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "staff",
+    "player_name": "Razeboy",
+    "player_name_raw": "Razeboy",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "staff",
+    "player_name": "NMM",
+    "player_name_raw": "NMM",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Dyx0n",
+    "player_name_raw": "Dyx0n",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Just Garrr",
+    "player_name_raw": "Garry",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Keyz",
+    "player_name_raw": "Keyz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Watt",
+    "player_name_raw": "Watt",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Drian",
+    "player_name_raw": "Drian",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Kimura",
+    "player_name_raw": "Kimura",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Lanaya",
+    "player_name_raw": "Lanaya",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Shacco",
+    "player_name_raw": "Shacco",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Caesius",
+    "player_name_raw": "Caesius",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Jacklee",
+    "player_name_raw": "Jacklee",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "main",
+    "player_name": "Fluffy",
+    "player_name_raw": "Fluffy",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "main",
+    "player_name": "Anavel",
+    "player_name_raw": "Anavel",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "main",
+    "player_name": "Claw Kun",
+    "player_name_raw": "Claw Kun",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "main",
+    "player_name": "Branz",
+    "player_name_raw": "Branz",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "main",
+    "player_name": "Dreams",
+    "player_name_raw": "DreamS",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "subs",
+    "player_name": "VAN",
+    "player_name_raw": "VAN",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "subs",
+    "player_name": "Natco",
+    "player_name_raw": "Natco",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "subs",
+    "player_name": "Super Red",
+    "player_name_raw": "Super Red",
+    "nationality": "Philippines",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "subs",
+    "player_name": "Panser",
+    "player_name_raw": "Panser",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "staff",
+    "player_name": "G",
+    "player_name_raw": "G",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "staff",
+    "player_name": "Caleb",
+    "player_name_raw": "Caleb",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "staff",
+    "player_name": "Age",
+    "player_name_raw": "Age",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "staff",
+    "player_name": "Theo",
+    "player_name_raw": "Theo",
+    "nationality": "Philippines",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Luke",
+    "player_name_raw": "Luke",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Reyy",
+    "player_name_raw": "Reyy",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "A B O Y",
+    "player_name_raw": "Aboy",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Caderaa",
+    "player_name_raw": "Caderaa",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Baloyskie",
+    "player_name_raw": "Baloyskie",
+    "nationality": "Philippines",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "subs",
+    "player_name": "Hazle",
+    "player_name_raw": "Hazle",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "subs",
+    "player_name": "Markyyyyy",
+    "player_name_raw": "Markyyyyy",
+    "nationality": "Philippines",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Bluffzy",
+    "player_name_raw": "Bluffzy",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Wuraaaah",
+    "player_name_raw": "Wuraaaah",
+    "nationality": "Philippines",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "main",
+    "player_name": "Lutpiii",
+    "player_name_raw": "Lutpiii",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "main",
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "nationality": "Philippines",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "main",
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "main",
+    "player_name": "CW",
+    "player_name_raw": "CW",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "main",
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "subs",
+    "player_name": "Butss",
+    "player_name_raw": "Butsss",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "subs",
+    "player_name": "Alberttt",
+    "player_name_raw": "Alberttt",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "staff",
+    "player_name": "Yeb",
+    "player_name_raw": "Yeb",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "staff",
+    "player_name": "Adi",
+    "player_name_raw": "Adi",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "main",
+    "player_name": "Karss",
+    "player_name_raw": "Karss",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "main",
+    "player_name": "Vincentt",
+    "player_name_raw": "Vincentt",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "main",
+    "player_name": "SwayLow",
+    "player_name_raw": "SwayLow",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "main",
+    "player_name": "Deee",
+    "player_name_raw": "Deee",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "main",
+    "player_name": "Audycs",
+    "player_name_raw": "AudyTzy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "subs",
+    "player_name": "Moai",
+    "player_name_raw": "Moai",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "staff",
+    "player_name": "Cikoo",
+    "player_name_raw": "Cikoo",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "staff",
+    "player_name": "Vivy",
+    "player_name_raw": "Vivy",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Donn",
+    "player_name_raw": "Donn",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Irrad",
+    "player_name_raw": "Irrad",
+    "nationality": "Philippines",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Clayyy",
+    "player_name_raw": "Clay",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Skylar",
+    "player_name_raw": "Skylar",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "VYN",
+    "player_name_raw": "VYN",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Banana",
+    "player_name_raw": "Banana",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Ferxiic",
+    "player_name_raw": "Ferxiic",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Lemon",
+    "player_name_raw": "Lemon",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Bunnyqt",
+    "player_name_raw": "Bunnyqt",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Brusko",
+    "player_name_raw": "Brusko",
+    "nationality": "Philippines",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "Vren",
+    "player_name_raw": "Vren",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 13,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "Sayargyi",
+    "player_name_raw": "Zaya",
+    "nationality": "Myanmar",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Nino",
+    "player_name_raw": "Nino",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Nnael",
+    "player_name_raw": "Nnael",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "RoundeL",
+    "player_name_raw": "RoundeL",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Haiz",
+    "player_name_raw": "Haiz",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Alekk",
+    "player_name_raw": "Owennn",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Gebe",
+    "player_name_raw": "Gebe",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Rekt",
+    "player_name_raw": "Rekt",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Aldo",
+    "player_name_raw": "Aldo",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Styx",
+    "player_name_raw": "Styx",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Luke",
+    "player_name_raw": "Luke",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Super Kenn",
+    "player_name_raw": "Kenn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Moreno",
+    "player_name_raw": "Moreno",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "EMANN",
+    "player_name_raw": "EMANN",
+    "nationality": "Philippines",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "main",
+    "player_name": "Kyy",
+    "player_name_raw": "Kyy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "subs",
+    "player_name": "Finn",
+    "player_name_raw": "Finn",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "staff",
+    "player_name": "Wuraaaah",
+    "player_name_raw": "Wuraaaah",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "status": "staff",
+    "player_name": "Theonael",
+    "player_name_raw": "Theonael",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Xorizo",
+    "player_name_raw": "Xorizo",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Reyy",
+    "player_name_raw": "Reyy",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Keyz",
+    "player_name_raw": "Keyz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Azuraa",
+    "player_name_raw": "Azuraa",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Muezzaa",
+    "player_name_raw": "Muezzaa",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Kimura",
+    "player_name_raw": "Kimura",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Hijumee",
+    "player_name_raw": "Hijumee",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Watt",
+    "player_name_raw": "Watt",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Raizan",
+    "player_name_raw": "Raizan",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Erpang",
+    "player_name_raw": "Ervan",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "main",
+    "player_name": "Saykots",
+    "player_name_raw": "Saykots",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "main",
+    "player_name": "Anavel",
+    "player_name_raw": "Anavel",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "main",
+    "player_name": "Claw Kun",
+    "player_name_raw": "Claw Kun",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "main",
+    "player_name": "Branz",
+    "player_name_raw": "Branz",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "main",
+    "player_name": "Dreams",
+    "player_name_raw": "DreamS",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "subs",
+    "player_name": "VAN",
+    "player_name_raw": "Van",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "subs",
+    "player_name": "Bondolz",
+    "player_name_raw": "Depezett",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "subs",
+    "player_name": "Natco",
+    "player_name_raw": "Natco",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "subs",
+    "player_name": "Alevaa",
+    "player_name_raw": "Alevaa",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "staff",
+    "player_name": "Age",
+    "player_name_raw": "Age",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "status": "staff",
+    "player_name": "Caleb",
+    "player_name_raw": "Caleb",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "main",
+    "player_name": "Rezzz",
+    "player_name_raw": "Rezzz",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "main",
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "nationality": "Philippines",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "main",
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "main",
+    "player_name": "CW",
+    "player_name_raw": "CW",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "main",
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "subs",
+    "player_name": "Alberttt",
+    "player_name_raw": "Alberttt",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "subs",
+    "player_name": "Marsha",
+    "player_name_raw": "Marsha",
+    "nationality": "Indonesia",
+    "role": "Flex"
+  },
+  {
+    "season_number": 14,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "staff",
+    "player_name": "Yeb",
+    "player_name_raw": "Yeb",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "staff",
+    "player_name": "Adi",
+    "player_name_raw": "Adi",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "status": "staff",
+    "player_name": "Zetsuna",
+    "player_name_raw": "Zetsuna",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Vell",
+    "player_name_raw": "Veldora",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Vincentt",
+    "player_name_raw": "Vincentt",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "A B O Y",
+    "player_name_raw": "Aboy",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Caderaa",
+    "player_name_raw": "Caderaa",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Baloyskie",
+    "player_name_raw": "Baloyskie",
+    "nationality": "Philippines",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "subs",
+    "player_name": "Gobs",
+    "player_name_raw": "Gobs",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "subs",
+    "player_name": "Mas4Ko",
+    "player_name_raw": "Mas4ko",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Bluffzy",
+    "player_name_raw": "Bluffzy",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Dora",
+    "player_name_raw": "Dora",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "main",
+    "player_name": "Karss",
+    "player_name_raw": "Karss",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "main",
+    "player_name": "Aether",
+    "player_name_raw": "Aether",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "main",
+    "player_name": "SwayLow",
+    "player_name_raw": "SwayLow",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "main",
+    "player_name": "Matt",
+    "player_name_raw": "Matt",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "main",
+    "player_name": "X Win",
+    "player_name_raw": "X Win",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "subs",
+    "player_name": "Ryyo",
+    "player_name_raw": "Ryyo",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "subs",
+    "player_name": "Audycs",
+    "player_name_raw": "Audycs",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "staff",
+    "player_name": "Raiden",
+    "player_name_raw": "Farr",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "status": "staff",
+    "player_name": "Vivy",
+    "player_name_raw": "Vivy",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 14,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Dyrennn",
+    "player_name_raw": "Dyrennn",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Sutsujin",
+    "player_name_raw": "Sutsujin",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Rinz",
+    "player_name_raw": "Rinz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Skylar",
+    "player_name_raw": "Skylar",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Idok",
+    "player_name_raw": "Idok",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Hazle",
+    "player_name_raw": "Hazle",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "Khezcute",
+    "player_name_raw": "Khezcute",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "NMM",
+    "player_name_raw": "NMM",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Aran",
+    "player_name_raw": "Aran",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Faviannn",
+    "player_name_raw": "Faviannn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Yehezkiel",
+    "player_name_raw": "Yehezkiel",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "AeronnShikii",
+    "player_name_raw": "AeronnShikii",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Widy",
+    "player_name_raw": "Widy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "subs",
+    "player_name": "Jeymz",
+    "player_name_raw": "Jeymz",
+    "nationality": "Philippines",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "subs",
+    "player_name": "Kabuki",
+    "player_name_raw": "Kabuki",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "subs",
+    "player_name": "Yawi",
+    "player_name_raw": "Yawi",
+    "nationality": "Philippines",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "staff",
+    "player_name": "SaintDeLucaz",
+    "player_name_raw": "SaintDeLucaz",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 14,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "staff",
+    "player_name": "Facehugger",
+    "player_name_raw": "Facehugger",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Nino",
+    "player_name_raw": "Nino",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Rinee",
+    "player_name_raw": "Rinee",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Hijumee",
+    "player_name_raw": "Hijumee",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Arfy",
+    "player_name_raw": "Arfy",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Dreams",
+    "player_name_raw": "Dreams",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Kyzenn",
+    "player_name_raw": "Kyzenn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Xepher",
+    "player_name_raw": "Xepher",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Rekt",
+    "player_name_raw": "Rekt",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Nafari",
+    "player_name_raw": "Nafari",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "main",
+    "player_name": "Luke",
+    "player_name_raw": "Luke",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "main",
+    "player_name": "Anavel",
+    "player_name_raw": "Anavel",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "main",
+    "player_name": "Moreno",
+    "player_name_raw": "Moreno",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "main",
+    "player_name": "EMANN",
+    "player_name_raw": "EMANN",
+    "nationality": "Philippines",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "main",
+    "player_name": "Light",
+    "player_name_raw": "Light",
+    "nationality": "Philippines",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "subs",
+    "player_name": "Finn",
+    "player_name_raw": "Finn",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "subs",
+    "player_name": "Barbossa",
+    "player_name_raw": "Barbossa",
+    "nationality": "Indonesia",
+    "role": "DNP"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "staff",
+    "player_name": "E2MAX",
+    "player_name_raw": "E2MAX",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "staff",
+    "player_name": "Tazy",
+    "player_name_raw": "Tazy",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "staff",
+    "player_name": "Theonael",
+    "player_name_raw": "Theonael",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "status": "staff",
+    "player_name": "Barbossa",
+    "player_name_raw": "Barbossa",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Xorizo",
+    "player_name_raw": "Xorizo",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Reyy",
+    "player_name_raw": "Reyy",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Octa",
+    "player_name_raw": "Octa",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Maybeee",
+    "player_name_raw": "Maybe",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Muezzaa",
+    "player_name_raw": "Muezzaa",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Rezzz",
+    "player_name_raw": "Rezzz",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Vanz",
+    "player_name_raw": "Vanz",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Spencer",
+    "player_name_raw": "Spencer",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Azuraa",
+    "player_name_raw": "Azuraa",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "KESUUU",
+    "player_name_raw": "KESUUU",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "BomBi",
+    "player_name_raw": "BomBi",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Watt",
+    "player_name_raw": "Watt",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Super Kurt",
+    "player_name_raw": "Super Kurt",
+    "nationality": "Philippines",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 15,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Fluffy",
+    "player_name_raw": "Regii",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Alberttt",
+    "player_name_raw": "Alberttt",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "SwayLow",
+    "player_name_raw": "SwayLow",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Erlan",
+    "player_name_raw": "Erlan",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Kyy",
+    "player_name_raw": "Kyy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "subs",
+    "player_name": "Branz",
+    "player_name_raw": "Branz",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "subs",
+    "player_name": "Natco",
+    "player_name_raw": "Natco",
+    "nationality": "Indonesia",
+    "role": "Flex"
+  },
+  {
+    "season_number": 15,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "staff",
+    "player_name": "Aville",
+    "player_name_raw": "Aville",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "staff",
+    "player_name": "Caleb",
+    "player_name_raw": "Caleb",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 15,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "staff",
+    "player_name": "TaxStump",
+    "player_name_raw": "TaxStump",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Gobs",
+    "player_name_raw": "Gobs",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Maykids",
+    "player_name_raw": "Maykids",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "A B O Y",
+    "player_name_raw": "Aboy",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "KennzyySkie",
+    "player_name_raw": "KennzyySkie",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Baloyskie",
+    "player_name_raw": "Baloyskie",
+    "nationality": "Philippines",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "subs",
+    "player_name": "Caderaa",
+    "player_name_raw": "Caderaa",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Bluffzy",
+    "player_name_raw": "Bluffzy",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Dora",
+    "player_name_raw": "Dora",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Bq syaii",
+    "player_name_raw": "bq syaii",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Woshipaul",
+    "player_name_raw": "woshipaul",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "XMagic",
+    "player_name_raw": "xMagic",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Xyve",
+    "player_name_raw": "Xyve",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Karss",
+    "player_name_raw": "Karss",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "subs",
+    "player_name": "Febbb",
+    "player_name_raw": "Febbb",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "subs",
+    "player_name": "Aether",
+    "player_name_raw": "Aether",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "subs",
+    "player_name": "HanafiTzy",
+    "player_name_raw": "HanafiTzy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "staff",
+    "player_name": "Aldo",
+    "player_name_raw": "Aldo",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "staff",
+    "player_name": "Raiden",
+    "player_name_raw": "Raiden",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Lutpiii",
+    "player_name_raw": "Lutpiii",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "nationality": "Philippines",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "S A N Z",
+    "player_name_raw": "Sanz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Savero",
+    "player_name_raw": "Savero",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "subs",
+    "player_name": "Ryota",
+    "player_name_raw": "Ryota",
+    "nationality": "Philippines",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "subs",
+    "player_name": "Nnael",
+    "player_name_raw": "Nnael",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "subs",
+    "player_name": "CW",
+    "player_name_raw": "CW",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "Yeb",
+    "player_name_raw": "Yeb",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "Adi",
+    "player_name_raw": "Adi",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "Paddington",
+    "player_name_raw": "Paddington",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 15,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Dyrennn",
+    "player_name_raw": "Dyrennn",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Sutsujin",
+    "player_name_raw": "Sutsujin",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Rinz",
+    "player_name_raw": "Rinz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Toyy",
+    "player_name_raw": "Toyy",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Idok",
+    "player_name_raw": "Idok",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Chenn",
+    "player_name_raw": "Chenn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "Khezcute",
+    "player_name_raw": "Khezcute",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "Rave",
+    "player_name_raw": "Rave",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "NMM",
+    "player_name_raw": "NMM",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Aran",
+    "player_name_raw": "Aran",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Faviannn",
+    "player_name_raw": "Faviannn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Yehezkiel",
+    "player_name_raw": "Yehezkiel",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Kyou",
+    "player_name_raw": "Kyou",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Widy",
+    "player_name_raw": "Widy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "subs",
+    "player_name": "AeronnShikii",
+    "player_name_raw": "AeronnShikii",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "staff",
+    "player_name": "SaintDeLucaz",
+    "player_name_raw": "SaintDeLucaz",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 15,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "staff",
+    "player_name": "Facehugger",
+    "player_name_raw": "Facehugger",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Nino",
+    "player_name_raw": "Nino",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Yazukee",
+    "player_name_raw": "Yazukee",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Hijumee",
+    "player_name_raw": "Hijumee",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Arfy",
+    "player_name_raw": "Arfy",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Alekk",
+    "player_name_raw": "alekk",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Rinee",
+    "player_name_raw": "Rinee",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Cyruz",
+    "player_name_raw": "Cyruz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Ivann",
+    "player_name_raw": "Ivann",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Xepher",
+    "player_name_raw": "Xepher",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Styx",
+    "player_name_raw": "Styx",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "main",
+    "player_name": "Shogun",
+    "player_name_raw": "Shogun",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "main",
+    "player_name": "Nnael",
+    "player_name_raw": "Nnael",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "main",
+    "player_name": "Moreno",
+    "player_name_raw": "Moreno",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "main",
+    "player_name": "EMANN",
+    "player_name_raw": "EMANN",
+    "nationality": "Philippines",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "main",
+    "player_name": "Finn",
+    "player_name_raw": "Finn",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "subs",
+    "player_name": "Ronn",
+    "player_name_raw": "Ronn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "staff",
+    "player_name": "Bam",
+    "player_name_raw": "Bam",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "staff",
+    "player_name": "Erpang",
+    "player_name_raw": "Erpang",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "staff",
+    "player_name": "Barbossa",
+    "player_name_raw": "Barbossa",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "QINN",
+    "player_name_raw": "QINN",
+    "nationality": "Philippines",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Reyy",
+    "player_name_raw": "Reyy",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Octa",
+    "player_name_raw": "Octa",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Maybeee",
+    "player_name_raw": "Maybeee",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Muezzaa",
+    "player_name_raw": "Muezza",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Markk",
+    "player_name_raw": "Markk",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Vanz",
+    "player_name_raw": "Vanz",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Right",
+    "player_name_raw": "Right",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Wongcoco",
+    "player_name_raw": "Aceng",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 16,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Rendyy",
+    "player_name_raw": "Rendyy",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Alberttt",
+    "player_name_raw": "Alberttt",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "SwayLow",
+    "player_name_raw": "Swaylow",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Erlan",
+    "player_name_raw": "Erlan",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Kyy",
+    "player_name_raw": "Kyy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 16,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "subs",
+    "player_name": "Xorizo",
+    "player_name_raw": "Xorizo",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "subs",
+    "player_name": "RoundeL",
+    "player_name_raw": "RoundeL",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "subs",
+    "player_name": "Branz",
+    "player_name_raw": "Branz",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "staff",
+    "player_name": "VYN",
+    "player_name_raw": "VYN",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "staff",
+    "player_name": "Bravo",
+    "player_name_raw": "Bravo",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Gobs",
+    "player_name_raw": "Gobs",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Maykids",
+    "player_name_raw": "Maykids",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "A B O Y",
+    "player_name_raw": "A B O Y",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "KennzyySkie",
+    "player_name_raw": "KennzyySkie",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Baloyskie",
+    "player_name_raw": "Baloyskie",
+    "nationality": "Philippines",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "subs",
+    "player_name": "Zeltron",
+    "player_name_raw": "Zeltron",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Dora",
+    "player_name_raw": "Dora",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Bluffzy",
+    "player_name_raw": "Bluffzy",
+    "nationality": "Philippines",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Karss",
+    "player_name_raw": "Karss",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Andoryuuu",
+    "player_name_raw": "Andoryuuu",
+    "nationality": "Philippines",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "UK1R",
+    "player_name_raw": "UK1R",
+    "nationality": "Philippines",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Xyve",
+    "player_name_raw": "Xyve",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Aprho",
+    "player_name_raw": "Aprho",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "subs",
+    "player_name": "Woshipaul",
+    "player_name_raw": "woshipaul",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "subs",
+    "player_name": "XMagic",
+    "player_name_raw": "xMagic",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "staff",
+    "player_name": "Aldo",
+    "player_name_raw": "Aldo",
+    "nationality": "Indonesia",
+    "role": "Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "staff",
+    "player_name": "Jacklee",
+    "player_name_raw": "Jacklee",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Lutpiii",
+    "player_name_raw": "Lutpiii",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "nationality": "Philippines",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "S A N Z",
+    "player_name_raw": "S A N Z",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Skylar",
+    "player_name_raw": "Skylar",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 16,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "subs",
+    "player_name": "Savero",
+    "player_name_raw": "Savero",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "Adi",
+    "player_name_raw": "Adi",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "CW",
+    "player_name_raw": "CW",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "Paddington",
+    "player_name_raw": "Paddington",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Dyrennn",
+    "player_name_raw": "Dyrennn",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Sutsujin",
+    "player_name_raw": "Sutsujin",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Rinz",
+    "player_name_raw": "Rinz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Toyy",
+    "player_name_raw": "Toyy",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Idok",
+    "player_name_raw": "Idok",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Rezzz",
+    "player_name_raw": "Rezzz",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Zunesh",
+    "player_name_raw": "Zunesh",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Ferxiic",
+    "player_name_raw": "Ferxiic",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "Khezcute",
+    "player_name_raw": "Khezcute",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "Rave",
+    "player_name_raw": "Rave",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "NMM",
+    "player_name_raw": "NMM",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Aran",
+    "player_name_raw": "Aran",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "JOOOOO",
+    "player_name_raw": "JOOOOO",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Yehezkiel",
+    "player_name_raw": "Yehezkiel",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Kabuki",
+    "player_name_raw": "Kabuki",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Widy",
+    "player_name_raw": "Widy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "subs",
+    "player_name": "Faviannn",
+    "player_name_raw": "Faviannn",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "subs",
+    "player_name": "Kyou",
+    "player_name_raw": "Kyou",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "subs",
+    "player_name": "AeronnShikii",
+    "player_name_raw": "AeronnShikii",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "staff",
+    "player_name": "SaintDeLucaz",
+    "player_name_raw": "SaintDeLucaz",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 16,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "staff",
+    "player_name": "Facehugger",
+    "player_name_raw": "Facehugger",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Nino",
+    "player_name_raw": "Nino",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Yazukee",
+    "player_name_raw": "Yazukee",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Hijumee",
+    "player_name_raw": "Hijumee",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Arfy",
+    "player_name_raw": "Arfy",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "main",
+    "player_name": "Alekk",
+    "player_name_raw": "alekk",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Reyy",
+    "player_name_raw": "Reyy",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "subs",
+    "player_name": "Cyruz",
+    "player_name_raw": "Cyruz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Xepher",
+    "player_name_raw": "Xepher",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "status": "staff",
+    "player_name": "Styx",
+    "player_name_raw": "Styx",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "main",
+    "player_name": "Shogun",
+    "player_name_raw": "Shogun",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "main",
+    "player_name": "Nnael",
+    "player_name_raw": "Nnael",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "main",
+    "player_name": "Moreno",
+    "player_name_raw": "Moreno",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "main",
+    "player_name": "EMANN",
+    "player_name_raw": "EMANN",
+    "nationality": "Philippines",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "main",
+    "player_name": "Finn",
+    "player_name_raw": "Finn",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "subs",
+    "player_name": "Ryzaa",
+    "player_name_raw": "RYZAA",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "subs",
+    "player_name": "Pinnn",
+    "player_name_raw": "Cliveee",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "staff",
+    "player_name": "Theonael",
+    "player_name_raw": "Theonael",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "staff",
+    "player_name": "K Dot",
+    "player_name_raw": "K Dot",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "staff",
+    "player_name": "Erpang",
+    "player_name_raw": "Erpang",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "status": "staff",
+    "player_name": "Her",
+    "player_name_raw": "Her",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "QINN",
+    "player_name_raw": "QINN",
+    "nationality": "Philippines",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Dolynn",
+    "player_name_raw": "Dolynn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Octa",
+    "player_name_raw": "Octa",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Maybeee",
+    "player_name_raw": "Maybe",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "main",
+    "player_name": "Muezzaa",
+    "player_name_raw": "Muezza",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "Kayn",
+    "player_name_raw": "Kayn",
+    "nationality": "Philippines",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "subs",
+    "player_name": "KESUUU",
+    "player_name_raw": "Kesu",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Right",
+    "player_name_raw": "Right",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Raiden",
+    "player_name_raw": "Raiden",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "status": "staff",
+    "player_name": "Wongcoco",
+    "player_name_raw": "Aceng",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 17,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Luke",
+    "player_name_raw": "Luke",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Alberttt",
+    "player_name_raw": "Albert",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Pheww",
+    "player_name_raw": "Pheww",
+    "nationality": "Philippines",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Erlan",
+    "player_name_raw": "Erlan",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "main",
+    "player_name": "Kyy",
+    "player_name_raw": "Kyy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "subs",
+    "player_name": "Vell",
+    "player_name_raw": "Vell",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "subs",
+    "player_name": "Treacky",
+    "player_name_raw": "Treacky",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "subs",
+    "player_name": "EgaTzy",
+    "player_name_raw": "EgaTzy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "staff",
+    "player_name": "VYN",
+    "player_name_raw": "VYN",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "status": "staff",
+    "player_name": "Bravo",
+    "player_name_raw": "Bravo",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "MarceL",
+    "player_name_raw": "MarceL",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Nazara",
+    "player_name_raw": "Nazara",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "A B O Y",
+    "player_name_raw": "Aboy",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "KennzyySkie",
+    "player_name_raw": "KennzyySkie",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "main",
+    "player_name": "Baloyskie",
+    "player_name_raw": "Baloyskie",
+    "nationality": "Philippines",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "subs",
+    "player_name": "Asune",
+    "player_name_raw": "Asune",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "MxMoore",
+    "player_name_raw": "MxMoore",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Vivy",
+    "player_name_raw": "Vivy",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "status": "staff",
+    "player_name": "Frizzyyy",
+    "player_name_raw": "Frizzyyy",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Karss",
+    "player_name_raw": "Karss",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Andoryuuu",
+    "player_name_raw": "Andoryuuu",
+    "nationality": "Philippines",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "UK1R",
+    "player_name_raw": "UK1R",
+    "nationality": "Philippines",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Xyve",
+    "player_name_raw": "Xyve",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "main",
+    "player_name": "Aprho",
+    "player_name_raw": "Aprho",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "subs",
+    "player_name": "H a n",
+    "player_name_raw": "H a n",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "subs",
+    "player_name": "XMagic",
+    "player_name_raw": "xMagic",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "subs",
+    "player_name": "Jizeezeze",
+    "player_name_raw": "Jiizee",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "subs",
+    "player_name": "Zeonn",
+    "player_name_raw": "Zeonn",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "staff",
+    "player_name": "YnoT",
+    "player_name_raw": "YnoT",
+    "nationality": "Philippines",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "status": "staff",
+    "player_name": "Jacklee",
+    "player_name_raw": "Jacklee",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Lutpiii",
+    "player_name_raw": "Lutpii",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Kairi",
+    "player_name_raw": "Kairi",
+    "nationality": "Philippines",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "S A N Z",
+    "player_name_raw": "S A N Z",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Kelra",
+    "player_name_raw": "Kelra",
+    "nationality": "Philippines",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "main",
+    "player_name": "Kiboy",
+    "player_name_raw": "Kiboy",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "subs",
+    "player_name": "SamueL",
+    "player_name_raw": "SamueL",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "CW",
+    "player_name_raw": "CW",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "Yeb",
+    "player_name_raw": "Yeb",
+    "nationality": "Philippines",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "status": "staff",
+    "player_name": "Paddington",
+    "player_name_raw": "Paddington",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 17,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Dan",
+    "player_name_raw": "Dan",
+    "nationality": "Philippines",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Super Kenn",
+    "player_name_raw": "Super Kenn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Yehezkiel",
+    "player_name_raw": "Yehezkiel",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Toyy",
+    "player_name_raw": "Toyy",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "main",
+    "player_name": "Idok",
+    "player_name_raw": "Idok",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "Rinz",
+    "player_name_raw": "Rinz",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "subs",
+    "player_name": "KurooKy",
+    "player_name_raw": "Kuroky",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "Khezcute",
+    "player_name_raw": "Khezcute",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "NMM",
+    "player_name_raw": "NMM",
+    "nationality": "Indonesia",
+    "role": "Assistant Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "status": "staff",
+    "player_name": "Pauuu",
+    "player_name_raw": "Pauuu",
+    "nationality": "Philippines",
+    "role": "Analyst"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Aran",
+    "player_name_raw": "Aran",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "JOOOOO",
+    "player_name_raw": "Kevinn",
+    "nationality": "Indonesia",
+    "role": "Jungler"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Drichel",
+    "player_name_raw": "Drichel",
+    "nationality": "Indonesia",
+    "role": "Mid Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Kyou",
+    "player_name_raw": "Kyou",
+    "nationality": "Indonesia",
+    "role": "Gold Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "main",
+    "player_name": "Lyoni",
+    "player_name_raw": "Lyoni",
+    "nationality": "Indonesia",
+    "role": "Roamer"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "subs",
+    "player_name": "Aredlavv",
+    "player_name_raw": "Aredlavv",
+    "nationality": "Indonesia",
+    "role": "EXP Laner"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "staff",
+    "player_name": "Honjaw",
+    "player_name_raw": "Honjaw",
+    "nationality": "Indonesia",
+    "role": "Head Coach"
+  },
+  {
+    "season_number": 17,
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "status": "staff",
+    "player_name": "Facehugger",
+    "player_name_raw": "Facehugger",
+    "nationality": "Indonesia",
+    "role": "Analyst"
+  }
+]

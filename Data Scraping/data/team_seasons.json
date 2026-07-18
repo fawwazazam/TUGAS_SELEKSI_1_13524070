@@ -1,0 +1,488 @@
+[
+  {
+    "season_number": 12,
+    "final_rank": "1.",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "match_record": "13-3",
+    "game_record": "81.25%",
+    "diff": "27-9"
+  },
+  {
+    "season_number": 12,
+    "final_rank": "2.",
+    "team_name": "RRQ",
+    "team_name_raw": "Rex Regum Qeon",
+    "match_record": "11-5",
+    "game_record": "68.75%",
+    "diff": "24-16"
+  },
+  {
+    "season_number": 12,
+    "final_rank": "3.",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "match_record": "10-6",
+    "game_record": "62.50%",
+    "diff": "22-16"
+  },
+  {
+    "season_number": 12,
+    "final_rank": "4.",
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "match_record": "7-9",
+    "game_record": "43.75%",
+    "diff": "17-20"
+  },
+  {
+    "season_number": 12,
+    "final_rank": "5.",
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Zion",
+    "match_record": "7-9",
+    "game_record": "43.75%",
+    "diff": "17-21"
+  },
+  {
+    "season_number": 12,
+    "final_rank": "6.",
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "match_record": "7-9",
+    "game_record": "43.75%",
+    "diff": "17-22"
+  },
+  {
+    "season_number": 12,
+    "final_rank": "7.",
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Legends",
+    "match_record": "6-10",
+    "game_record": "37.50%",
+    "diff": "17-22"
+  },
+  {
+    "season_number": 12,
+    "final_rank": "8.",
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "match_record": "6-10",
+    "game_record": "37.50%",
+    "diff": "17-23"
+  },
+  {
+    "season_number": 12,
+    "final_rank": "9.",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "AURA Fire",
+    "match_record": "5-11",
+    "game_record": "31.25%",
+    "diff": "14-23"
+  },
+  {
+    "season_number": 13,
+    "final_rank": "1.",
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "match_record": "13-3",
+    "game_record": "28-9",
+    "diff": "+19"
+  },
+  {
+    "season_number": 13,
+    "final_rank": "2.",
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "match_record": "11-5",
+    "game_record": "25-16",
+    "diff": "+9"
+  },
+  {
+    "season_number": 13,
+    "final_rank": "3.",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "match_record": "10-6",
+    "game_record": "22-20",
+    "diff": "+2"
+  },
+  {
+    "season_number": 13,
+    "final_rank": "4.",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Liquid Aura",
+    "match_record": "8-8",
+    "game_record": "21-18",
+    "diff": "+3"
+  },
+  {
+    "season_number": 13,
+    "final_rank": "5.",
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "match_record": "8-8",
+    "game_record": "20-23",
+    "diff": "-3"
+  },
+  {
+    "season_number": 13,
+    "final_rank": "6.",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "match_record": "7-9",
+    "game_record": "18-22",
+    "diff": "-4"
+  },
+  {
+    "season_number": 13,
+    "final_rank": "7.",
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "match_record": "6-10",
+    "game_record": "17-24",
+    "diff": "-7"
+  },
+  {
+    "season_number": 13,
+    "final_rank": "8.",
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "match_record": "5-11",
+    "game_record": "17-24",
+    "diff": "-7"
+  },
+  {
+    "season_number": 13,
+    "final_rank": "9.",
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "match_record": "4-12",
+    "game_record": "14-26",
+    "diff": "-12"
+  },
+  {
+    "season_number": 14,
+    "final_rank": "1.",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "match_record": "13-3",
+    "game_record": "28-11",
+    "diff": "+17"
+  },
+  {
+    "season_number": 14,
+    "final_rank": "2.",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "match_record": "12-4",
+    "game_record": "25-14",
+    "diff": "+11"
+  },
+  {
+    "season_number": 14,
+    "final_rank": "3.",
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Alpha",
+    "match_record": "11-5",
+    "game_record": "26-14",
+    "diff": "+12"
+  },
+  {
+    "season_number": 14,
+    "final_rank": "4.",
+    "team_name": "ONIC",
+    "team_name_raw": "Fnatic ONIC",
+    "match_record": "10-6",
+    "game_record": "21-17",
+    "diff": "+4"
+  },
+  {
+    "season_number": 14,
+    "final_rank": "5.",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "match_record": "9-7",
+    "game_record": "21-20",
+    "diff": "+1"
+  },
+  {
+    "season_number": 14,
+    "final_rank": "6.",
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "match_record": "6-10",
+    "game_record": "16-22",
+    "diff": "-6"
+  },
+  {
+    "season_number": 14,
+    "final_rank": "7.",
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "match_record": "5-11",
+    "game_record": "16-23",
+    "diff": "-7"
+  },
+  {
+    "season_number": 14,
+    "final_rank": "8.",
+    "team_name": "Rebellion",
+    "team_name_raw": "Rebellion Esports",
+    "match_record": "3-13",
+    "game_record": "12-27",
+    "diff": "-15"
+  },
+  {
+    "season_number": 14,
+    "final_rank": "9.",
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS Glory",
+    "match_record": "3-13",
+    "game_record": "12-29",
+    "diff": "-17"
+  },
+  {
+    "season_number": 15,
+    "final_rank": "1.",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "match_record": "12-4",
+    "game_record": "25-14",
+    "diff": "+11"
+  },
+  {
+    "season_number": 15,
+    "final_rank": "2.",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "match_record": "11-5",
+    "game_record": "25-17",
+    "diff": "+8"
+  },
+  {
+    "season_number": 15,
+    "final_rank": "3.",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "match_record": "10-6",
+    "game_record": "24-17",
+    "diff": "+7"
+  },
+  {
+    "season_number": 15,
+    "final_rank": "4.",
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron Esports",
+    "match_record": "9-7",
+    "game_record": "23-18",
+    "diff": "+5"
+  },
+  {
+    "season_number": 15,
+    "final_rank": "5.",
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "match_record": "9-7",
+    "game_record": "22-18",
+    "diff": "+4"
+  },
+  {
+    "season_number": 15,
+    "final_rank": "6.",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "match_record": "9-7",
+    "game_record": "22-20",
+    "diff": "+2"
+  },
+  {
+    "season_number": 15,
+    "final_rank": "7.",
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "match_record": "7-9",
+    "game_record": "19-21",
+    "diff": "-2"
+  },
+  {
+    "season_number": 15,
+    "final_rank": "8.",
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "match_record": "5-11",
+    "game_record": "15-24",
+    "diff": "-9"
+  },
+  {
+    "season_number": 15,
+    "final_rank": "9.",
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "match_record": "0-16",
+    "game_record": "6-32",
+    "diff": "-26"
+  },
+  {
+    "season_number": 16,
+    "final_rank": "1.",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "match_record": "14-2",
+    "game_record": "29-7",
+    "diff": "+22"
+  },
+  {
+    "season_number": 16,
+    "final_rank": "2.",
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "match_record": "12-4",
+    "game_record": "25-14",
+    "diff": "+11"
+  },
+  {
+    "season_number": 16,
+    "final_rank": "3.",
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "match_record": "9-7",
+    "game_record": "23-19",
+    "diff": "+4"
+  },
+  {
+    "season_number": 16,
+    "final_rank": "4.",
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "match_record": "8-8",
+    "game_record": "20-19",
+    "diff": "+1"
+  },
+  {
+    "season_number": 16,
+    "final_rank": "5.",
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "match_record": "8-8",
+    "game_record": "17-18",
+    "diff": "-1"
+  },
+  {
+    "season_number": 16,
+    "final_rank": "6.",
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "match_record": "6-10",
+    "game_record": "16-22",
+    "diff": "-6"
+  },
+  {
+    "season_number": 16,
+    "final_rank": "7.",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "match_record": "6-10",
+    "game_record": "15-22",
+    "diff": "-7"
+  },
+  {
+    "season_number": 16,
+    "final_rank": "8.",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "match_record": "5-11",
+    "game_record": "12-23",
+    "diff": "-11"
+  },
+  {
+    "season_number": 16,
+    "final_rank": "9.",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "match_record": "4-12",
+    "game_record": "13-26",
+    "diff": "-13"
+  },
+  {
+    "season_number": 17,
+    "final_rank": "1.",
+    "team_name": "ONIC",
+    "team_name_raw": "ONIC",
+    "match_record": "13-3",
+    "game_record": "29-8",
+    "diff": "+21"
+  },
+  {
+    "season_number": 17,
+    "final_rank": "2.",
+    "team_name": "Team Liquid ID",
+    "team_name_raw": "Team Liquid ID",
+    "match_record": "10-6",
+    "game_record": "21-16",
+    "diff": "+5"
+  },
+  {
+    "season_number": 17,
+    "final_rank": "3.",
+    "team_name": "Dewa United Esports",
+    "team_name_raw": "Dewa United Esports",
+    "match_record": "9-7",
+    "game_record": "22-17",
+    "diff": "+5"
+  },
+  {
+    "season_number": 17,
+    "final_rank": "4.",
+    "team_name": "Bigetron",
+    "team_name_raw": "Bigetron by Vitality",
+    "match_record": "9-7",
+    "game_record": "20-21",
+    "diff": "-1"
+  },
+  {
+    "season_number": 17,
+    "final_rank": "5.",
+    "team_name": "EVOS",
+    "team_name_raw": "EVOS",
+    "match_record": "8-8",
+    "game_record": "18-17",
+    "diff": "+1"
+  },
+  {
+    "season_number": 17,
+    "final_rank": "6.",
+    "team_name": "Geek Fam ID",
+    "team_name_raw": "Geek Fam ID",
+    "match_record": "8-8",
+    "game_record": "19-19",
+    "diff": "0"
+  },
+  {
+    "season_number": 17,
+    "final_rank": "7.",
+    "team_name": "Alter Ego",
+    "team_name_raw": "Alter Ego",
+    "match_record": "7-9",
+    "game_record": "19-25",
+    "diff": "-6"
+  },
+  {
+    "season_number": 17,
+    "final_rank": "8.",
+    "team_name": "Natus Vincere",
+    "team_name_raw": "Natus Vincere",
+    "match_record": "6-10",
+    "game_record": "18-22",
+    "diff": "-4"
+  },
+  {
+    "season_number": 17,
+    "final_rank": "9.",
+    "team_name": "RRQ",
+    "team_name_raw": "RRQ Hoshi",
+    "match_record": "2-14",
+    "game_record": "8-29",
+    "diff": "-21"
+  }
+]
