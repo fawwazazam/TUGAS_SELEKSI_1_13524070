@@ -1,0 +1,29 @@
+{
+  "_readme": "Mapping nama tim mentah -> canonical_name, dipakai scrape_teams.py buat normalisasi. Cuma nyimpen grup yang beneran muncul di scope S12-S17 - alias historis lain (Geek Slate, Aerowolf, dst) dibuang karena ga kepake.",
+  "groups": [
+    {
+      "canonical_name": "RRQ",
+      "aliases": ["Rex Regum Qeon", "RRQ Hoshi", "RRQ"]
+    },
+    {
+      "canonical_name": "EVOS",
+      "aliases": ["EVOS Legends", "EVOS Glory", "EVOS"]
+    },
+    {
+      "canonical_name": "ONIC",
+      "aliases": ["ONIC", "Fnatic ONIC"]
+    },
+    {
+      "canonical_name": "Bigetron",
+      "aliases": ["Bigetron Alpha", "Bigetron Esports", "Bigetron by Vitality"]
+    },
+    {
+      "canonical_name": "Team Liquid ID",
+      "aliases": ["AURA Fire", "Liquid Aura", "Team Liquid ID"]
+    },
+    {
+      "canonical_name": "Rebellion",
+      "aliases": ["Rebellion Zion", "Rebellion Esports"]
+    }
+  ]
+}

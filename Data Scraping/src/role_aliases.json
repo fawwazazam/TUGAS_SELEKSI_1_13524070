@@ -1,0 +1,25 @@
+{
+  "_comment": "5 role player yang valid: EXP Laner, Jungler, Mid Laner, Gold Laner, Roamer. Role kelas hero (Fighter/Assassin/Mage/Marksman/Tank dari Dream_Team) SENGAJA TIDAK masuk sini karena itu bukan role player - lihat catatan di scrape_awards.py.",
+  "groups": [
+    {
+      "canonical_name": "EXP Laner",
+      "aliases": ["EXP Lane", "EXP Laner", "Exp Lane", "Exp Laner"]
+    },
+    {
+      "canonical_name": "Jungler",
+      "aliases": ["Jungle", "Jungler"]
+    },
+    {
+      "canonical_name": "Mid Laner",
+      "aliases": ["Middle", "Mid Lane", "Mid Laner"]
+    },
+    {
+      "canonical_name": "Gold Laner",
+      "aliases": ["Gold Lane", "Gold Laner"]
+    },
+    {
+      "canonical_name": "Roamer",
+      "aliases": ["Roamer", "Roam"]
+    }
+  ]
+}
