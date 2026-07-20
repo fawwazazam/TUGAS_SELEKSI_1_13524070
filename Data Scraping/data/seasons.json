@@ -16,8 +16,8 @@
     "prize_pool": "$298,584.49",
     "location": "Jakarta",
     "participant_count": "9",
-    "winner": "Fnatic ONIC",
-    "runner_up": "EVOS Glory"
+    "winner": "ONIC",
+    "runner_up": "EVOS"
   },
   {
     "season_number": 14,
@@ -27,7 +27,7 @@
     "location": "Jakarta Bandung",
     "participant_count": "9",
     "winner": "Team Liquid ID",
-    "runner_up": "RRQ Hoshi"
+    "runner_up": "RRQ"
   },
   {
     "season_number": 15,
@@ -37,7 +37,7 @@
     "location": "Jakarta",
     "participant_count": "9",
     "winner": "ONIC",
-    "runner_up": "RRQ Hoshi"
+    "runner_up": "RRQ"
   },
   {
     "season_number": 16,
@@ -56,7 +56,7 @@
     "prize_pool": "$273,351.59",
     "location": "Jakarta",
     "participant_count": "9",
-    "winner": "Bigetron by Vitality",
+    "winner": "Bigetron",
     "runner_up": "ONIC"
   }
 ]

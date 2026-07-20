@@ -13,6 +13,7 @@ import re
 
 import config
 import utils
+from scrape_teams import normalize_team_name
 
 
 def _find_events_table(soup):
@@ -56,6 +57,11 @@ def _cell_text(cell):
     return ""
 
 
+def _team_text(cell):
+    text = _cell_text(cell)
+    return normalize_team_name(text) if text else None
+
+
 def scrape_seasons():
     allowed_seasons = set(config.SEASON_RANGE)
 
@@ -96,8 +102,8 @@ def scrape_seasons():
             "prize_pool": _cell_text(col_cell("Prize Pool")),
             "location": _cell_text(col_cell("Location")),
             "participant_count": _cell_text(col_cell("P#")),
-            "winner": _cell_text(col_cell("Winner")) or None,
-            "runner_up": _cell_text(col_cell("Runner-up")) or None,
+            "winner": _team_text(col_cell("Winner")),
+            "runner_up": _team_text(col_cell("Runner-up")),
         })
 
     seasons.sort(key=lambda s: s["season_number"])
