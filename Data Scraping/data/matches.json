@@ -10,7 +10,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -23,7 +24,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -36,7 +38,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -49,7 +52,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -62,7 +66,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -75,7 +80,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -88,7 +94,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -101,7 +108,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -114,7 +122,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -127,7 +136,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -140,7 +150,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -153,7 +164,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -166,7 +178,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -179,7 +192,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -192,7 +206,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -205,7 +220,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -218,7 +234,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -231,7 +248,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -244,7 +262,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -257,7 +276,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -270,7 +290,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -283,7 +304,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -296,7 +318,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -309,7 +332,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -322,7 +346,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -335,7 +360,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -348,7 +374,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -361,7 +388,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -374,7 +402,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -387,7 +416,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -400,7 +430,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -413,7 +444,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -426,7 +458,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -439,7 +472,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -452,7 +486,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -465,7 +500,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -478,7 +514,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -491,7 +528,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -504,7 +542,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -517,7 +556,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -530,7 +570,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -543,7 +584,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -556,7 +598,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -569,7 +612,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -582,7 +626,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -595,7 +640,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -608,7 +654,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -621,7 +668,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -634,7 +682,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -647,7 +696,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -660,7 +710,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -673,7 +724,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -686,7 +738,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -699,7 +752,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -712,7 +766,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -725,7 +780,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -738,7 +794,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -751,7 +808,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -764,7 +822,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -777,7 +836,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -790,7 +850,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -803,7 +864,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -816,7 +878,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -829,7 +892,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -842,7 +906,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -855,7 +920,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -868,7 +934,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -881,7 +948,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -894,7 +962,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -907,7 +976,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -920,7 +990,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -933,7 +1004,8 @@
     "season_number": 12,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 4"
+    "match_day": 4,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -946,7 +1018,8 @@
     "season_number": 12,
     "stage": "Playoffs",
     "week": null,
-    "day": "Play-In (Bo5)"
+    "match_day": null,
+    "round_name": "Play-In (Bo5)"
   },
   {
     "team_a": "Bigetron",
@@ -959,7 +1032,8 @@
     "season_number": 12,
     "stage": "Playoffs",
     "week": null,
-    "day": "Play-In (Bo5)"
+    "match_day": null,
+    "round_name": "Play-In (Bo5)"
   },
   {
     "team_a": "RRQ",
@@ -972,7 +1046,8 @@
     "season_number": 12,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket SF (Bo5)"
+    "match_day": null,
+    "round_name": "Upper Bracket SF (Bo5)"
   },
   {
     "team_a": "ONIC",
@@ -985,7 +1060,8 @@
     "season_number": 12,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket SF (Bo5)"
+    "match_day": null,
+    "round_name": "Upper Bracket SF (Bo5)"
   },
   {
     "team_a": "RRQ",
@@ -998,7 +1074,8 @@
     "season_number": 12,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket SF (Bo5)"
+    "match_day": null,
+    "round_name": "Lower Bracket SF (Bo5)"
   },
   {
     "team_a": "Geek Fam ID",
@@ -1011,7 +1088,8 @@
     "season_number": 12,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Final (Bo5)"
+    "match_day": null,
+    "round_name": "Upper Bracket Final (Bo5)"
   },
   {
     "team_a": "Geek Fam ID",
@@ -1024,7 +1102,8 @@
     "season_number": 12,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket Final (Bo5)"
+    "match_day": null,
+    "round_name": "Lower Bracket Final (Bo5)"
   },
   {
     "team_a": "ONIC",
@@ -1037,7 +1116,8 @@
     "season_number": 12,
     "stage": "Playoffs",
     "week": null,
-    "day": "Grand Final (Bo7)"
+    "match_day": null,
+    "round_name": "Grand Final (Bo7)"
   },
   {
     "team_a": "Alter Ego",
@@ -1050,7 +1130,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 1,
-    "day": "March 8"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -1063,7 +1144,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 1,
-    "day": "March 8"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -1076,7 +1158,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 1,
-    "day": "March 9"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -1089,7 +1172,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 1,
-    "day": "March 9"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -1102,7 +1186,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 1,
-    "day": "March 9"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -1115,7 +1200,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 1,
-    "day": "March 10"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -1128,7 +1214,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 1,
-    "day": "March 10"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -1141,7 +1228,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 1,
-    "day": "March 10"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -1154,7 +1242,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 2,
-    "day": "March 15"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -1167,7 +1256,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 2,
-    "day": "March 15"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -1180,7 +1270,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 2,
-    "day": "March 16"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -1193,7 +1284,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 2,
-    "day": "March 16"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -1206,7 +1298,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 2,
-    "day": "March 16"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -1219,7 +1312,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 2,
-    "day": "March 17"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -1232,7 +1326,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 2,
-    "day": "March 17"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -1245,7 +1340,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 2,
-    "day": "March 17"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -1258,7 +1354,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 3,
-    "day": "March 22"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -1271,7 +1368,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 3,
-    "day": "March 22"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -1284,7 +1382,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 3,
-    "day": "March 23"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -1297,7 +1396,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 3,
-    "day": "March 23"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -1310,7 +1410,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 3,
-    "day": "March 23"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -1323,7 +1424,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 3,
-    "day": "March 24"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -1336,7 +1438,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 3,
-    "day": "March 24"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -1349,7 +1452,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 3,
-    "day": "March 24"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -1362,7 +1466,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 4,
-    "day": "March 29"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -1375,7 +1480,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 4,
-    "day": "March 29"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -1388,7 +1494,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 4,
-    "day": "March 30"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -1401,7 +1508,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 4,
-    "day": "March 30"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -1414,7 +1522,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 4,
-    "day": "March 30"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -1427,7 +1536,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 4,
-    "day": "March 31"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -1440,7 +1550,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 4,
-    "day": "March 31"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -1453,7 +1564,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 4,
-    "day": "March 31"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -1466,7 +1578,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 5,
-    "day": "April 19"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -1479,7 +1592,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 5,
-    "day": "April 19"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -1492,7 +1606,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 5,
-    "day": "April 20"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -1505,7 +1620,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 5,
-    "day": "April 20"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -1518,7 +1634,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 5,
-    "day": "April 20"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -1531,7 +1648,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 5,
-    "day": "April 21"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -1544,7 +1662,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 5,
-    "day": "April 21"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -1557,7 +1676,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 5,
-    "day": "April 21"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -1570,7 +1690,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 6,
-    "day": "April 26"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -1583,7 +1704,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 6,
-    "day": "April 26"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -1596,7 +1718,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 6,
-    "day": "April 27"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -1609,7 +1732,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 6,
-    "day": "April 27"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -1622,7 +1746,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 6,
-    "day": "April 27"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -1635,7 +1760,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 6,
-    "day": "April 28"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -1648,7 +1774,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 6,
-    "day": "April 28"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -1661,7 +1788,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 6,
-    "day": "April 28"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -1674,7 +1802,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 7,
-    "day": "May 3"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -1687,7 +1816,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 7,
-    "day": "May 3"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -1700,7 +1830,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 7,
-    "day": "May 4"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -1713,7 +1844,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 7,
-    "day": "May 4"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -1726,7 +1858,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 7,
-    "day": "May 4"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -1739,7 +1872,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 7,
-    "day": "May 5"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -1752,7 +1886,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 7,
-    "day": "May 5"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -1765,7 +1900,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 7,
-    "day": "May 5"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -1778,7 +1914,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 8,
-    "day": "May 10"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -1791,7 +1928,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 8,
-    "day": "May 10"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -1804,7 +1942,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 8,
-    "day": "May 11"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -1817,7 +1956,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 8,
-    "day": "May 11"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -1830,7 +1970,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 8,
-    "day": "May 11"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -1843,7 +1984,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 8,
-    "day": "May 12"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -1856,7 +1998,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 8,
-    "day": "May 12"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -1869,7 +2012,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 8,
-    "day": "May 12"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -1882,7 +2026,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 9,
-    "day": "May 17"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -1895,7 +2040,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 9,
-    "day": "May 17"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -1908,7 +2054,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 9,
-    "day": "May 18"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -1921,7 +2068,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 9,
-    "day": "May 18"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -1934,7 +2082,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 9,
-    "day": "May 18"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -1947,7 +2096,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 9,
-    "day": "May 19"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -1960,7 +2110,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 9,
-    "day": "May 19"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -1973,7 +2124,8 @@
     "season_number": 13,
     "stage": "Regular Season",
     "week": 9,
-    "day": "May 19"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -1986,7 +2138,8 @@
     "season_number": 13,
     "stage": "Playoffs",
     "week": null,
-    "day": "Play-in (Bo5)"
+    "match_day": null,
+    "round_name": "Play-in (Bo5)"
   },
   {
     "team_a": "Team Liquid ID",
@@ -1999,7 +2152,8 @@
     "season_number": 13,
     "stage": "Playoffs",
     "week": null,
-    "day": "Play-in (Bo5)"
+    "match_day": null,
+    "round_name": "Play-in (Bo5)"
   },
   {
     "team_a": "ONIC",
@@ -2012,7 +2166,8 @@
     "season_number": 13,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket SF (Bo5)"
+    "match_day": null,
+    "round_name": "Upper Bracket SF (Bo5)"
   },
   {
     "team_a": "Bigetron",
@@ -2025,7 +2180,8 @@
     "season_number": 13,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket SF (Bo5)"
+    "match_day": null,
+    "round_name": "Upper Bracket SF (Bo5)"
   },
   {
     "team_a": "Geek Fam ID",
@@ -2038,7 +2194,8 @@
     "season_number": 13,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket SF (Bo5)"
+    "match_day": null,
+    "round_name": "Lower Bracket SF (Bo5)"
   },
   {
     "team_a": "ONIC",
@@ -2051,7 +2208,8 @@
     "season_number": 13,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Final (Bo5)"
+    "match_day": null,
+    "round_name": "Upper Bracket Final (Bo5)"
   },
   {
     "team_a": "EVOS",
@@ -2064,7 +2222,8 @@
     "season_number": 13,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket Final (Bo5)"
+    "match_day": null,
+    "round_name": "Lower Bracket Final (Bo5)"
   },
   {
     "team_a": "ONIC",
@@ -2077,7 +2236,8 @@
     "season_number": 13,
     "stage": "Playoffs",
     "week": null,
-    "day": "Grand Final (Bo7)"
+    "match_day": null,
+    "round_name": "Grand Final (Bo7)"
   },
   {
     "team_a": "ONIC",
@@ -2090,7 +2250,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 1,
-    "day": "August 9"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -2103,7 +2264,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 1,
-    "day": "August 9"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -2116,7 +2278,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 1,
-    "day": "August 10"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -2129,7 +2292,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 1,
-    "day": "August 10"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -2142,7 +2306,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 1,
-    "day": "August 10"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -2155,7 +2320,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 1,
-    "day": "August 11"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -2168,7 +2334,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 1,
-    "day": "August 11"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -2181,7 +2348,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 1,
-    "day": "August 11"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -2194,7 +2362,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 2,
-    "day": "August 16"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -2207,7 +2376,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 2,
-    "day": "August 16"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -2220,7 +2390,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 2,
-    "day": "August 17"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -2233,7 +2404,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 2,
-    "day": "August 17"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -2246,7 +2418,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 2,
-    "day": "August 17"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -2259,7 +2432,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 2,
-    "day": "August 18"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -2272,7 +2446,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 2,
-    "day": "August 18"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -2285,7 +2460,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 2,
-    "day": "August 18"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -2298,7 +2474,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 3,
-    "day": "August 23"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -2311,7 +2488,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 3,
-    "day": "August 23"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -2324,7 +2502,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 3,
-    "day": "August 24"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -2337,7 +2516,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 3,
-    "day": "August 24"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -2350,7 +2530,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 3,
-    "day": "August 24"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -2363,7 +2544,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 3,
-    "day": "August 25"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -2376,7 +2558,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 3,
-    "day": "August 25"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -2389,7 +2572,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 3,
-    "day": "August 25"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -2402,7 +2586,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 4,
-    "day": "August 30"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -2415,7 +2600,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 4,
-    "day": "August 30"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -2428,7 +2614,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 4,
-    "day": "August 31"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -2441,7 +2628,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 4,
-    "day": "August 31"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -2454,7 +2642,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 4,
-    "day": "August 31"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -2467,7 +2656,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 4,
-    "day": "September 1"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -2480,7 +2670,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 4,
-    "day": "September 1"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -2493,7 +2684,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 4,
-    "day": "September 1"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -2506,7 +2698,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 5,
-    "day": "September 6"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -2519,7 +2712,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 5,
-    "day": "September 6"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -2532,7 +2726,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 5,
-    "day": "September 7"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -2545,7 +2740,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 5,
-    "day": "September 7"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -2558,7 +2754,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 5,
-    "day": "September 7"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -2571,7 +2768,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 5,
-    "day": "September 8"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -2584,7 +2782,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 5,
-    "day": "September 8"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -2597,7 +2796,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 5,
-    "day": "September 8"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -2610,7 +2810,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 6,
-    "day": "September 13"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -2623,7 +2824,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 6,
-    "day": "September 13"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -2636,7 +2838,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 6,
-    "day": "September 14"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -2649,7 +2852,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 6,
-    "day": "September 14"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -2662,7 +2866,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 6,
-    "day": "September 14"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -2675,7 +2880,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 6,
-    "day": "September 15"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -2688,7 +2894,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 6,
-    "day": "September 15"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -2701,7 +2908,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 6,
-    "day": "September 15"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -2714,7 +2922,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 7,
-    "day": "September 20"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -2727,7 +2936,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 7,
-    "day": "September 20"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -2740,7 +2950,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 7,
-    "day": "September 21"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -2753,7 +2964,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 7,
-    "day": "September 21"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -2766,7 +2978,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 7,
-    "day": "September 21"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -2779,7 +2992,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 7,
-    "day": "September 22"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -2792,7 +3006,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 7,
-    "day": "September 22"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -2805,7 +3020,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 7,
-    "day": "September 22"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -2818,7 +3034,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 8,
-    "day": "September 27"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -2831,7 +3048,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 8,
-    "day": "September 27"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -2844,7 +3062,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 8,
-    "day": "September 28"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -2857,7 +3076,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 8,
-    "day": "September 28"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -2870,7 +3090,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 8,
-    "day": "September 28"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -2883,7 +3104,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 8,
-    "day": "September 29"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -2896,7 +3118,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 8,
-    "day": "September 29"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -2909,7 +3132,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 8,
-    "day": "September 29"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -2922,7 +3146,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 9,
-    "day": "October 4"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Rebellion",
@@ -2935,7 +3160,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 9,
-    "day": "October 4"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -2948,7 +3174,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 9,
-    "day": "October 5"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -2961,7 +3188,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 9,
-    "day": "October 5"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -2974,7 +3202,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 9,
-    "day": "October 5"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -2987,7 +3216,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 9,
-    "day": "October 6"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -3000,7 +3230,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 9,
-    "day": "October 6"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -3013,7 +3244,8 @@
     "season_number": 14,
     "stage": "Regular Season",
     "week": 9,
-    "day": "October 6"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -3026,7 +3258,8 @@
     "season_number": 14,
     "stage": "Playoffs",
     "week": null,
-    "day": "Play-In (Bo5)"
+    "match_day": null,
+    "round_name": "Play-In (Bo5)"
   },
   {
     "team_a": "ONIC",
@@ -3039,7 +3272,8 @@
     "season_number": 14,
     "stage": "Playoffs",
     "week": null,
-    "day": "Play-In (Bo5)"
+    "match_day": null,
+    "round_name": "Play-In (Bo5)"
   },
   {
     "team_a": "Team Liquid ID",
@@ -3052,7 +3286,8 @@
     "season_number": 14,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket SF (Bo5)"
+    "match_day": null,
+    "round_name": "Upper Bracket SF (Bo5)"
   },
   {
     "team_a": "RRQ",
@@ -3065,7 +3300,8 @@
     "season_number": 14,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket SF (Bo5)"
+    "match_day": null,
+    "round_name": "Upper Bracket SF (Bo5)"
   },
   {
     "team_a": "Bigetron",
@@ -3078,7 +3314,8 @@
     "season_number": 14,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket SF (Bo5)"
+    "match_day": null,
+    "round_name": "Lower Bracket SF (Bo5)"
   },
   {
     "team_a": "Team Liquid ID",
@@ -3091,7 +3328,8 @@
     "season_number": 14,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Final (Bo5)"
+    "match_day": null,
+    "round_name": "Upper Bracket Final (Bo5)"
   },
   {
     "team_a": "Team Liquid ID",
@@ -3104,7 +3342,8 @@
     "season_number": 14,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket Final (Bo5)"
+    "match_day": null,
+    "round_name": "Lower Bracket Final (Bo5)"
   },
   {
     "team_a": "RRQ",
@@ -3117,7 +3356,8 @@
     "season_number": 14,
     "stage": "Playoffs",
     "week": null,
-    "day": "Grand Final (Bo7)"
+    "match_day": null,
+    "round_name": "Grand Final (Bo7)"
   },
   {
     "team_a": "Natus Vincere",
@@ -3130,7 +3370,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -3143,7 +3384,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -3156,7 +3398,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -3169,7 +3412,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -3182,7 +3426,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -3195,7 +3440,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -3208,7 +3454,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -3221,7 +3468,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -3234,7 +3482,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -3247,7 +3496,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -3260,7 +3510,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -3273,7 +3524,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -3286,7 +3538,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -3299,7 +3552,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -3312,7 +3566,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -3325,7 +3580,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -3338,7 +3594,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -3351,7 +3608,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -3364,7 +3622,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -3377,7 +3636,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -3390,7 +3650,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -3403,7 +3664,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -3416,7 +3678,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -3429,7 +3692,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -3442,7 +3706,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -3455,7 +3720,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -3468,7 +3734,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -3481,7 +3748,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -3494,7 +3762,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -3507,7 +3776,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -3520,7 +3790,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -3533,7 +3804,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -3546,7 +3818,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -3559,7 +3832,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -3572,7 +3846,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -3585,7 +3860,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -3598,7 +3874,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -3611,7 +3888,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -3624,7 +3902,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -3637,7 +3916,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -3650,7 +3930,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -3663,7 +3944,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -3676,7 +3958,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -3689,7 +3972,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -3702,7 +3986,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -3715,7 +4000,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -3728,7 +4014,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -3741,7 +4028,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -3754,7 +4042,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -3767,7 +4056,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -3780,7 +4070,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -3793,7 +4084,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -3806,7 +4098,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -3819,7 +4112,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -3832,7 +4126,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -3845,7 +4140,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -3858,7 +4154,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -3871,7 +4168,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -3884,7 +4182,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -3897,7 +4196,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -3910,7 +4210,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -3923,7 +4224,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -3936,7 +4238,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -3949,7 +4252,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -3962,7 +4266,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -3975,7 +4280,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -3988,7 +4294,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -4001,7 +4308,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -4014,7 +4322,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -4027,7 +4336,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -4040,7 +4350,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -4053,7 +4364,8 @@
     "season_number": 15,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -4066,7 +4378,8 @@
     "season_number": 15,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Quarterfinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Quarterfinals"
   },
   {
     "team_a": "Bigetron",
@@ -4079,7 +4392,8 @@
     "season_number": 15,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Quarterfinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Quarterfinals"
   },
   {
     "team_a": "Geek Fam ID",
@@ -4092,7 +4406,8 @@
     "season_number": 15,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Semifinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Semifinals"
   },
   {
     "team_a": "RRQ",
@@ -4105,7 +4420,8 @@
     "season_number": 15,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Semifinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Semifinals"
   },
   {
     "team_a": "Geek Fam ID",
@@ -4118,7 +4434,8 @@
     "season_number": 15,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket Semifinal"
+    "match_day": null,
+    "round_name": "Lower Bracket Semifinal"
   },
   {
     "team_a": "ONIC",
@@ -4131,7 +4448,8 @@
     "season_number": 15,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Final"
+    "match_day": null,
+    "round_name": "Upper Bracket Final"
   },
   {
     "team_a": "RRQ",
@@ -4144,7 +4462,8 @@
     "season_number": 15,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket Final"
+    "match_day": null,
+    "round_name": "Lower Bracket Final"
   },
   {
     "team_a": "ONIC",
@@ -4157,7 +4476,8 @@
     "season_number": 15,
     "stage": "Playoffs",
     "week": null,
-    "day": "Grand Final"
+    "match_day": null,
+    "round_name": "Grand Final"
   },
   {
     "team_a": "ONIC",
@@ -4170,7 +4490,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -4183,7 +4504,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -4196,7 +4518,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -4209,7 +4532,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -4222,7 +4546,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -4235,7 +4560,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -4248,7 +4574,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -4261,7 +4588,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -4274,7 +4602,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -4287,7 +4616,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -4300,7 +4630,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -4313,7 +4644,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -4326,7 +4658,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -4339,7 +4672,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -4352,7 +4686,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -4365,7 +4700,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -4378,7 +4714,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -4391,7 +4728,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -4404,7 +4742,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -4417,7 +4756,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -4430,7 +4770,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -4443,7 +4784,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -4456,7 +4798,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -4469,7 +4812,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -4482,7 +4826,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -4495,7 +4840,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -4508,7 +4854,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -4521,7 +4868,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -4534,7 +4882,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -4547,7 +4896,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -4560,7 +4910,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -4573,7 +4924,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -4586,7 +4938,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -4599,7 +4952,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -4612,7 +4966,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -4625,7 +4980,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -4638,7 +4994,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -4651,7 +5008,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -4664,7 +5022,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -4677,7 +5036,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -4690,7 +5050,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -4703,7 +5064,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -4716,7 +5078,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -4729,7 +5092,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -4742,7 +5106,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -4755,7 +5120,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -4768,7 +5134,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -4781,7 +5148,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -4794,7 +5162,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -4807,7 +5176,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -4820,7 +5190,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -4833,7 +5204,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -4846,7 +5218,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -4859,7 +5232,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -4872,7 +5246,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -4885,7 +5260,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -4898,7 +5274,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -4911,7 +5288,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -4924,7 +5302,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -4937,7 +5316,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -4950,7 +5330,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -4963,7 +5344,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -4976,7 +5358,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -4989,7 +5372,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -5002,7 +5386,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -5015,7 +5400,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -5028,7 +5414,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -5041,7 +5428,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -5054,7 +5442,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -5067,7 +5456,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -5080,7 +5470,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -5093,7 +5484,8 @@
     "season_number": 16,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -5106,7 +5498,8 @@
     "season_number": 16,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Quarterfinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Quarterfinals"
   },
   {
     "team_a": "EVOS",
@@ -5119,7 +5512,8 @@
     "season_number": 16,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Quarterfinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Quarterfinals"
   },
   {
     "team_a": "Bigetron",
@@ -5132,7 +5526,8 @@
     "season_number": 16,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Semifinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Semifinals"
   },
   {
     "team_a": "ONIC",
@@ -5145,7 +5540,8 @@
     "season_number": 16,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Semifinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Semifinals"
   },
   {
     "team_a": "Bigetron",
@@ -5158,7 +5554,8 @@
     "season_number": 16,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket Semifinal"
+    "match_day": null,
+    "round_name": "Lower Bracket Semifinal"
   },
   {
     "team_a": "Alter Ego",
@@ -5171,7 +5568,8 @@
     "season_number": 16,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Final"
+    "match_day": null,
+    "round_name": "Upper Bracket Final"
   },
   {
     "team_a": "Alter Ego",
@@ -5184,7 +5582,8 @@
     "season_number": 16,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket Final"
+    "match_day": null,
+    "round_name": "Lower Bracket Final"
   },
   {
     "team_a": "ONIC",
@@ -5197,7 +5596,8 @@
     "season_number": 16,
     "stage": "Playoffs",
     "week": null,
-    "day": "Grand Final"
+    "match_day": null,
+    "round_name": "Grand Final"
   },
   {
     "team_a": "Bigetron",
@@ -5210,7 +5610,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -5223,7 +5624,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -5236,7 +5638,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -5249,7 +5652,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -5262,7 +5666,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -5275,7 +5680,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -5288,7 +5694,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -5301,7 +5708,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 1,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -5314,7 +5722,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -5327,7 +5736,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -5340,7 +5750,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -5353,7 +5764,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -5366,7 +5778,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -5379,7 +5792,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -5392,7 +5806,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -5405,7 +5820,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 2,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -5418,7 +5834,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -5431,7 +5848,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -5444,7 +5862,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -5457,7 +5876,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -5470,7 +5890,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -5483,7 +5904,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -5496,7 +5918,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -5509,7 +5932,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 3,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -5522,7 +5946,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -5535,7 +5960,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -5548,7 +5974,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -5561,7 +5988,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -5574,7 +6002,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -5587,7 +6016,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -5600,7 +6030,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -5613,7 +6044,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 4,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -5626,7 +6058,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -5639,7 +6072,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -5652,7 +6086,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -5665,7 +6100,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -5678,7 +6114,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -5691,7 +6128,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -5704,7 +6142,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -5717,7 +6156,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 5,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -5730,7 +6170,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -5743,7 +6184,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -5756,7 +6198,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -5769,7 +6212,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -5782,7 +6226,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -5795,7 +6240,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -5808,7 +6254,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -5821,7 +6268,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 6,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -5834,7 +6282,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -5847,7 +6296,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -5860,7 +6310,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -5873,7 +6324,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -5886,7 +6338,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -5899,7 +6352,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -5912,7 +6366,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -5925,7 +6380,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 7,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -5938,7 +6394,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -5951,7 +6408,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "EVOS",
@@ -5964,7 +6422,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -5977,7 +6436,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -5990,7 +6450,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -6003,7 +6464,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -6016,7 +6478,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -6029,7 +6492,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 8,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -6042,7 +6506,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Team Liquid ID",
@@ -6055,7 +6520,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 1"
+    "match_day": 1,
+    "round_name": null
   },
   {
     "team_a": "Geek Fam ID",
@@ -6068,7 +6534,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Alter Ego",
@@ -6081,7 +6548,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "Bigetron",
@@ -6094,7 +6562,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 2"
+    "match_day": 2,
+    "round_name": null
   },
   {
     "team_a": "RRQ",
@@ -6107,7 +6576,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "ONIC",
@@ -6120,7 +6590,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Natus Vincere",
@@ -6133,7 +6604,8 @@
     "season_number": 17,
     "stage": "Regular Season",
     "week": 9,
-    "day": "Day 3"
+    "match_day": 3,
+    "round_name": null
   },
   {
     "team_a": "Dewa United Esports",
@@ -6146,7 +6618,8 @@
     "season_number": 17,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Quarterfinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Quarterfinals"
   },
   {
     "team_a": "Bigetron",
@@ -6159,7 +6632,8 @@
     "season_number": 17,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Quarterfinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Quarterfinals"
   },
   {
     "team_a": "Team Liquid ID",
@@ -6172,7 +6646,8 @@
     "season_number": 17,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Semifinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Semifinals"
   },
   {
     "team_a": "ONIC",
@@ -6185,7 +6660,8 @@
     "season_number": 17,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Semifinals"
+    "match_day": null,
+    "round_name": "Upper Bracket Semifinals"
   },
   {
     "team_a": "Team Liquid ID",
@@ -6198,7 +6674,8 @@
     "season_number": 17,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket Semifinal"
+    "match_day": null,
+    "round_name": "Lower Bracket Semifinal"
   },
   {
     "team_a": "Geek Fam ID",
@@ -6211,7 +6688,8 @@
     "season_number": 17,
     "stage": "Playoffs",
     "week": null,
-    "day": "Upper Bracket Final"
+    "match_day": null,
+    "round_name": "Upper Bracket Final"
   },
   {
     "team_a": "Geek Fam ID",
@@ -6224,7 +6702,8 @@
     "season_number": 17,
     "stage": "Playoffs",
     "week": null,
-    "day": "Lower Bracket Final"
+    "match_day": null,
+    "round_name": "Lower Bracket Final"
   },
   {
     "team_a": "ONIC",
@@ -6237,6 +6716,7 @@
     "season_number": 17,
     "stage": "Playoffs",
     "week": null,
-    "day": "Grand Final"
+    "match_day": null,
+    "round_name": "Grand Final"
   }
 ]

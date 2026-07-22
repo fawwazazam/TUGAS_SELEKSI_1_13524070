@@ -111,6 +111,8 @@ def scrape_team_roster(card, season_number):
             parsed = _parse_member(m)
             if parsed is None:
                 continue
+            if parsed["role"] == "DNP":
+                continue
             results.append({
                 "season_number": season_number,
                 "team_name": normalize_team_name(team_raw) if team_raw else None,

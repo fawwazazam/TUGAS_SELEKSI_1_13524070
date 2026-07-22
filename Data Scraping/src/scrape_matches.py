@@ -88,11 +88,11 @@ def _parse_week(matchlist_div, week_number, season_number):
     if collapse_area is None:
         return results
 
-    current_day = None
+    current_day_number = 0
     for child in collapse_area.find_all(recursive=False):
         classes = child.get("class") or []
         if "brkts-matchlist-header" in classes:
-            current_day = utils.clean_text(child.get_text())
+            current_day_number += 1
             continue
         if "brkts-matchlist-match" in classes:
             match = _parse_single_match(child)
@@ -102,7 +102,8 @@ def _parse_week(matchlist_div, week_number, season_number):
                 "season_number": season_number,
                 "stage": "Regular Season",
                 "week": week_number,
-                "day": current_day,
+                "match_day": current_day_number,
+                "round_name": None,
             })
             results.append(match)
     return results
@@ -169,7 +170,8 @@ def scrape_season_playoffs(season_number):
             "season_number": season_number,
             "stage": "Playoffs",
             "week": None,
-            "day": round_name,  # field "day" dipake biar skema konsisten sama Regular Season
+            "match_day": None,
+            "round_name": round_name,
         })
     return results
 

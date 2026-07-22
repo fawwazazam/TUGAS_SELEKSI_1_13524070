@@ -2,61 +2,81 @@
   {
     "season_number": 12,
     "name": "MPL Indonesia Season 12",
-    "date_range": "Jul 13 – Oct 15, 2023",
-    "prize_pool": "$336,500",
-    "location": "Jakarta",
+    "start_date": "2023-07-13",
+    "end_date": "2023-10-15",
     "participant_count": "9",
     "winner": "ONIC",
-    "runner_up": "Geek Fam ID"
+    "runner_up": "Geek Fam ID",
+    "prize_pool_usd": 336500.0,
+    "locations": [
+      "Jakarta"
+    ]
   },
   {
     "season_number": 13,
     "name": "MPL Indonesia Season 13",
-    "date_range": "Mar 08 – Jun 09, 2024",
-    "prize_pool": "$298,584.49",
-    "location": "Jakarta",
+    "start_date": "2024-03-08",
+    "end_date": "2024-06-09",
     "participant_count": "9",
     "winner": "ONIC",
-    "runner_up": "EVOS"
+    "runner_up": "EVOS",
+    "prize_pool_usd": 298584.49,
+    "locations": [
+      "Jakarta"
+    ]
   },
   {
     "season_number": 14,
     "name": "MPL Indonesia Season 14",
-    "date_range": "Aug 09 – Oct 27, 2024",
-    "prize_pool": "$309,650.78",
-    "location": "Jakarta Bandung",
+    "start_date": "2024-08-09",
+    "end_date": "2024-10-27",
     "participant_count": "9",
     "winner": "Team Liquid ID",
-    "runner_up": "RRQ"
+    "runner_up": "RRQ",
+    "prize_pool_usd": 309650.78,
+    "locations": [
+      "Jakarta",
+      "Bandung"
+    ]
   },
   {
     "season_number": 15,
     "name": "MPL Indonesia Season 15",
-    "date_range": "Mar 07 – Jun 15, 2025",
-    "prize_pool": "$298,172.31",
-    "location": "Jakarta",
+    "start_date": "2025-03-07",
+    "end_date": "2025-06-15",
     "participant_count": "9",
     "winner": "ONIC",
-    "runner_up": "RRQ"
+    "runner_up": "RRQ",
+    "prize_pool_usd": 298172.31,
+    "locations": [
+      "Jakarta"
+    ]
   },
   {
     "season_number": 16,
     "name": "MPL Indonesia Season 16",
-    "date_range": "Aug 22 – Nov 02, 2025",
-    "prize_pool": "$292,110.32",
-    "location": "Jakarta Tangerang",
+    "start_date": "2025-08-22",
+    "end_date": "2025-11-02",
     "participant_count": "9",
     "winner": "ONIC",
-    "runner_up": "Alter Ego"
+    "runner_up": "Alter Ego",
+    "prize_pool_usd": 292110.32,
+    "locations": [
+      "Jakarta",
+      "Tangerang"
+    ]
   },
   {
     "season_number": 17,
     "name": "MPL Indonesia Season 17",
-    "date_range": "Mar 27 – Jun 14, 2026",
-    "prize_pool": "$273,351.59",
-    "location": "Jakarta",
+    "start_date": "2026-03-27",
+    "end_date": "2026-06-14",
     "participant_count": "9",
     "winner": "Bigetron",
-    "runner_up": "ONIC"
+    "runner_up": "ONIC",
+    "prize_pool_usd": 273351.59,
+    "locations": [
+      "Jakarta"
+    ]
   }
 ]

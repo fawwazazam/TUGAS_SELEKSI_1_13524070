@@ -10,10 +10,13 @@ Output: data/seasons.json
 """
 
 import re
+from datetime import datetime
 
 import config
 import utils
 from scrape_teams import normalize_team_name
+
+KNOWN_LOCATIONS = ("Jakarta", "Bandung", "Tangerang")
 
 
 def _find_events_table(soup):
@@ -62,6 +65,25 @@ def _team_text(cell):
     return normalize_team_name(text) if text else None
 
 
+def _parse_date_range(text):
+    text = re.sub(r"\s+[-–—]\s+", " - ", text)
+    start_text, end_text = text.split(" - ", 1)
+    end_date = datetime.strptime(end_text, "%b %d, %Y").date()
+
+    start_month = datetime.strptime(start_text.split()[0], "%b").month
+    start_year = end_date.year - (1 if start_month > end_date.month else 0)
+    start_date = datetime.strptime(f"{start_text}, {start_year}", "%b %d, %Y").date()
+    return start_date.isoformat(), end_date.isoformat()
+
+
+def _parse_prize_pool(text):
+    return float(re.sub(r"[^\d.]", "", text))
+
+
+def _parse_locations(text):
+    return [location for location in KNOWN_LOCATIONS if location in text]
+
+
 def scrape_seasons():
     allowed_seasons = set(config.SEASON_RANGE)
 
@@ -95,12 +117,15 @@ def scrape_seasons():
         if season_number not in allowed_seasons:
             continue
 
+        start_date, end_date = _parse_date_range(_cell_text(col_cell("Date")))
+
         seasons.append({
             "season_number": season_number,
             "name": name,
-            "date_range": _cell_text(col_cell("Date")),
-            "prize_pool": _cell_text(col_cell("Prize Pool")),
-            "location": _cell_text(col_cell("Location")),
+            "start_date": start_date,
+            "end_date": end_date,
+            "prize_pool_usd": _parse_prize_pool(_cell_text(col_cell("Prize Pool"))),
+            "locations": _parse_locations(_cell_text(col_cell("Location"))),
             "participant_count": _cell_text(col_cell("P#")),
             "winner": _team_text(col_cell("Winner")),
             "runner_up": _team_text(col_cell("Runner-up")),

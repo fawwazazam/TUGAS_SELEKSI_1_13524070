@@ -44,6 +44,17 @@ def _is_rank_cell(text):
     return bool(re.match(r"^\d+\.$", text))
 
 
+def _parse_record(text):
+    wins, losses = text.split("-", 1)
+    return int(wins), int(losses)
+
+
+def _parse_game_record(game_record, diff):
+    # S12 source uses game_record as win rate and diff as "game wins-losses".
+    # S13+ uses game_record as "game wins-losses" and diff as signed delta.
+    return _parse_record(diff if game_record.endswith("%") else game_record)
+
+
 def _final_standings_block(table):
     """
     Tabel cuma punya satu header di awal, standings tiap minggu (Week 1-9)
@@ -116,14 +127,20 @@ def scrape_season_standings(season_number):
     result = []
     for cells in standings_rows:
         raw_name = _team_name(cells[1])
+        match_wins, match_losses = _parse_record(utils.clean_text(cells[2].get_text()))
+        game_wins, game_losses = _parse_game_record(
+            utils.clean_text(cells[3].get_text()),
+            utils.clean_text(cells[4].get_text()),
+        )
         result.append({
             "season_number": season_number,
-            "final_rank": utils.clean_text(cells[0].get_text()),
+            "final_rank": int(utils.clean_text(cells[0].get_text()).rstrip(".")),
             "team_name": normalize_team_name(raw_name),
             "team_name_raw": raw_name,
-            "match_record": utils.clean_text(cells[2].get_text()),
-            "game_record": utils.clean_text(cells[3].get_text()),
-            "diff": utils.clean_text(cells[4].get_text()),
+            "match_wins": match_wins,
+            "match_losses": match_losses,
+            "game_wins": game_wins,
+            "game_losses": game_losses,
         })
     return result
 
