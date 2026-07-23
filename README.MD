@@ -1,75 +1,219 @@
-<h1 align="center">
-  <br>
-  Seleksi Warga Basdat 2026 <br>
-  ETL Project
-  <br>
-  <br>
-</h1>
+# Data Historis MPL Indonesia Season 12-17
 
-<h2 align="left">
-  <br>
-  Singkatnya?
-  <br>
-</h2>
-Pada tahap seleksi ini, peserta akan diminta untuk melakukan proses ETL yang meliputi data scraping, database modeling, dan data storing terkait sebuah topik yang dibebaskan kepada peserta. Peserta juga diminta untuk merancang sebuah model ERD dan model relasional yang akan diimplementasikan untuk menyimpan hasil proses data scraping sebelumnya. Tahap seleksi ini menguji kemampuan peserta untuk mengumpulkan data, merancang sebuah database, dan merealisasikan rancangan tersebut menjadi sebuah database relasional yang fungsional.
-  <br>
+## Author
 
-## Step 1: Data Scraping
-1. Pilih sebuah topik yang akan kalian jadikan sebagai tema pada seleksi _data scraping_ Anda. Daftarkan topik tersebut ke dalam spreadsheet berikut:
-[Daftar Topik Seleksi Asisten Lab Basis Data 2026](https://docs.google.com/spreadsheets/d/1cowSMPtWQApyALrypfMBJSOuqbXyGh2cCaDXKRs8fD4/edit?usp=sharing)
-    - Usahakan agar tidak ada dua atau lebih peserta dengan topik yang sama
-    - First come, first served. Bila ada dua atau lebih peserta dengan topik yang sama, peserta dengan topik yang sudah terdaftar duluan (berada di atas) akan diprioritaskan.
-    - Akses edit ke _spreadsheet_ topik data scraping akan ditutup pada tanggal **25 Juli pukul 20:40 WIB**
-2. Lakukan _data scraping_ dari sebuah _web page_ untuk memperoleh data dan informasi sesuai dengan topik yang telah dipilih oleh masing-masing peserta. 
-    - Data dan informasi yang diperoleh akan digunakan di _step_ berikutnya sebagai data yang akan disimpan di dalam sebuah RDBMS
-    - Peserta **DILARANG** menggunakan API untuk melakukan proses data scraping
-3. Pada folder `Data Scraping`, peserta harus mengumpulkan file _script_ dan file JSON hasil _scraping_ yang telah dilakukan
-    - Folder `src` berisi _script_/_code_ yang telah digunakan untuk _scraping_. Pastikan bahwa _script_/_code_ yang kalian bua bersifat well documented dan clean. 
-    - Folder `data` berisi semua data dan informasi yang berhasil kalian scrape dalam bentu JSON. Peserta diperbolehkan untuk memisahkan hasil _scraping_ ke dalam file-file yang berbeda ataupun digabung dalam satu file yang besar. Yang penting sesuai dengan output dari _script_ _data scraping_ yang digunakan
-    - Folder `screenshot` berisi tangkapan layar dari _script/code_ yang kalian gunakan untuk _data scraping_. Pastikan tangkapan layar dapat dibaca dengan jelas
-4. Sebagai referensi untuk mempelajari dan mengenal _data scraping_, asisten telah menyiapkan dokumen panduan singkat pada link berikut: Panduan Singkat Data Scraping
-    - Dokumen tersebut hanya merupakan panduan bagi peserta. Metodologi _data scraping_ yang digunakan oleh peserta seleksi basdat dibebaskan (asal sesuai peraturan)
-    - Perhatikan dan peragakan etika _data scraping_ yang baik dalam pelaksanaan seleksi ini
-5. Syarat data yang diperoleh dari proses data scraping: Data yang diperoleh harus di-_preprocessing_ terlebih dahulu
-    - Beberapa contoh _preprocessing_:
-        - Cleaning
-        - Parsing
-        - Transformation
-        - Dll
-    - Preprocessing dilakukan untuk memastikan data yang diterima tidak sepenuh-penuhnya mentah dan tidak dapat dipahami dengan mudah
-  
+- Nama: A. Fawwaz Azam Wicaksono
+- NIM: 13524070
 
-## Step 2: Data Modeling + Data Storing
-1. Dari hasil proses _data scraping_ yang telah dilakukan, lakukan perancangan _database_ dalam bentuk **ERD**. Sertakan asumsi dan penjelasan di dalam desain ERD-nya bila diperlukan
-2. Translasikan hasil desain ERD tersebut ke dalam bentuk diagram relasional. Peserta dipersilahkan untuk menambahkan tabel lain yang sekiranya relevan atau berkaitan dengan tabel-tabel yang murni didapatkan dari proses _data scraping_.
-3. Implementasikan skema diagram relasional tersebut ke dalam RDBMS sesuai pilihan peserta (PostgreSQL, mariaDB, etc). Peserta **dilarang** untuk menggunakan DBMS no-SQL
-    - Jangan lupa untuk mengimplementasikan _constraints_ ke dalam _database_ (primary key, foreign key, trigger, dll)
-4. Setelah _database_-nya telah diimplementasikan, masukkan data yang didapatkan dari proses _scraping_ ke dalam RDBMS yang telah dibuat
-    - Tabel tambahan yang dibuat pada poin 2 tidak perlu diisi dengan data (baik data _dummy_ maupun data asli). Cukup dibiarkan kosong
-5. Tools yang digunakan dibebaskan kepada peserta
-6. Pada folder `Data Storing`, peserta harus mengumpulkan bukti penyimpanan data pada DBMS. Folder `Data Storing` terdiri dari folder `design`, `export`, dan `screenshots`.
-    - Folder `design` berisi gambar ERD dan gambar diagram relasional dari _database_ yang kalian rancang. Format file yang diterima adalah **.png**
-    - Folder `src` berisi script/code yang telah digunakan untuk storing. Pastikan bahwa script/code yang kalian bua bersifat well documented dan clean. 
-    - Folder `export` berisi file hasil _export_ dari DBMS dengan format **.sql**
-    - Folder `screenshots` berisi tangkapan layar bukti dari penyimpanan data ke dalam RDBMS (Query SELECT FROM WHERE pada RDBMS)
+## Deskripsi
 
-## Bonus:
-Task-task berikut merupakan bonus yang **TIDAK WAJIB** dilakukan oleh peserta seleksi. Penyelesaian satu atau lebih dari task bonus akan membawa nilai tambahan bagi peserta yang menyelesaikannya. Peserta dibolehkan untuk mengerjakan sebagian atau seluruh dari task bonus yang tersedia
-1. Buatlah perancangan dan implementasi data warehouse berdasarkan data yang diperoleh dari proses data scraping. Rancanglah skema yang diperlukan untuk fact table dan dimension table (misalnya menggunakan pendekatan star schema atau snowflake schema) untuk mendukung kebutuhan analitik. Sertakan struktur skema data warehouse yang digunakan beserta contoh query analitik yang bisa dijalankan terhadap data tersebut. 
-2. Lakukan automated scheduling untuk keseluruhan proses, sehingga data dapat di-update secara berkala. Pastikan tidak terdapat redundansi data pada DBMS. Jika mengerjakan bonus ini, jelaskan pada README dan cantumkan pada data waktu pelaksanaan scheduling, misalnya dengan menunjukkan perbedaan timestamp ekstraksi antara data pada batch pertama dan data pada batch kedua
+Proyek ini melakukan proses ETL untuk data historis MPL Indonesia Season 12 sampai Season 17 dari Liquipedia. Data yang diambil meliputi season, tim, standings akhir regular season, roster pemain/staff, award pemain, dan hasil pertandingan.
 
+Topik ini dipilih karena MPL Indonesia memiliki data historis yang cukup terstruktur, tetapi nama tim dan format tabelnya tidak selalu konsisten antar season. Hal itu membuat datanya cocok untuk latihan scraping, pembersihan data, perancangan basis data relasional, dan analisis historis.
 
-# Pengumpulan
-1. Peserta diwajibkan untuk melakukan _fork_ terhadap project [GitHub Seleksi Lab Basdat 2026](https://github.com/wargabasdat/Seleksi-2026-Tugas-1). Peserta harus melakukan _pull request_ dengan nama **TUGAS_SELEKSI_1_[NIM]** sebelum tenggat waktu yang telah ditetapkan
-2. Tambahkan **.gitignore** pada _file_ atau _folder_ yang tidak perlu di-upload. NB: Binary tidak perlu di-upload
-3. Sertakan file **README** yang memuat:
-    - Author (Nama dan NIM)
-    - Deskripsi singkat mengenai data dan DBMS yang telah dibuat + mengapa kalian memilih topik tersebut
-    - Cara menggunakan scraper yang telah dibuat dan menggunakan hasil output-nya
-    - Penjelasan struktur dari file JSON yang dihasilkan scraper
-    - Struktur ERD dan diagram relasional RDBMS
-    - Penjelasan mengenai proses translasi ERD menjadi diagram relasional
-    - Beberapa screenshot dari program yang dijalankan (image di-upload sesuai folder-folder yang tersedia, di README tinggal ditampilkan)
-    - Referensi (library yang digunakan, link halaman web yang di-scrape, etc)
-  
-# DEADLINE PENGUMPULAN ADALAH TANGGAL 23 Juli 2026, PUKUL 22:40
+Topik awal yang didaftarkan adalah data historis MPL Indonesia Season 1-17 berdasarkan tim, pemain, pertandingan, dan performa pemain. Setelah eksplorasi sumber data, cakupan dipersempit menjadi Season 12-17 karena format franchise league pada rentang ini lebih stabil dan data antar season lebih konsisten untuk dimodelkan. Statistik performa pemain juga tidak jadi dimasukkan karena Liquipedia tidak menyediakan statistik performa pemain per match pada halaman MPL Indonesia; data statistik yang tersedia lebih mengarah ke statistik hero, sehingga tidak sesuai dengan rancangan awal berbasis performa pemain.
+
+DBMS yang digunakan adalah MariaDB. Database relasional utama bernama `mpl_indonesia`, sedangkan bonus data warehouse menggunakan database `mpl_indonesia_dw`.
+
+## Struktur Repository
+
+```text
+Data Scraping/
+  src/       script scraping dan preprocessing
+  data/      hasil scraping dalam format JSON
+
+Data Storing/
+  design/    ERD dan model relasional
+  src/       schema, seed, loader, dumper, dan proof queries
+  export/    hasil export database relasional
+  screenshot/ bukti SELECT pada MariaDB
+
+Data Warehouse/
+  design/    diagram star schema
+  src/       schema, loader, dumper, dan query analitik
+  export/    hasil export data warehouse
+  screenshot/ bukti query data warehouse
+
+Query Optimasi/
+  query_optimasi.sql
+  screenshot/ bukti query sebelum dan sesudah optimasi
+```
+
+## Cara Menjalankan
+
+Install dependency Python:
+
+```bash
+pip install -r requirements.txt
+```
+
+Menjalankan seluruh scraper:
+
+```bash
+cd "Data Scraping/src"
+python main.py
+```
+
+Script `main.py` menjalankan scraper sesuai urutan dependensi: season, tim, award, roster, pengayaan role award, pemain, lalu match. Output akan tersimpan di `Data Scraping/data`.
+
+Membuat dan mengisi database MariaDB:
+
+```bash
+python "Data Storing/src/load_db.py" --user root --password --disable-ssl
+```
+
+Export database relasional:
+
+```bash
+python "Data Storing/src/dump_db.py" --user root --password --disable-ssl
+```
+
+Menjalankan query bukti penyimpanan:
+
+```bash
+mariadb -u root -p mpl_indonesia < "Data Storing/src/proof_queries.sql"
+```
+
+Membuat dan mengisi data warehouse:
+
+```bash
+python "Data Warehouse/src/load_dw.py" --user root --password --disable-ssl
+```
+
+Export data warehouse:
+
+```bash
+python "Data Warehouse/src/dump_dw.py" --user root --password --disable-ssl
+```
+
+Menjalankan query analitik data warehouse:
+
+```bash
+mariadb -u root -p mpl_indonesia_dw < "Data Warehouse/src/analytics_queries.sql"
+```
+
+Menjalankan query optimasi:
+
+```bash
+mariadb -u root -p mpl_indonesia < "Query Optimasi/query_optimasi.sql"
+```
+
+## Struktur JSON
+
+| File | Isi | Jumlah data |
+| --- | --- | ---: |
+| `seasons.json` | Informasi season, tanggal mulai/selesai, prize pool, lokasi, winner, runner-up | 6 |
+| `teams.json` | Master tim dengan nama yang sudah dinormalisasi | 10 |
+| `team_seasons.json` | Partisipasi tim per season, final rank, match wins/losses, game wins/losses | 54 |
+| `rosters.json` | Pemain dan staff per tim per season, termasuk status roster dan role | 520 |
+| `players.json` | Master person dari hasil normalisasi roster | 214 |
+| `awards.json` | Award pemain per season, tim, dan role hasil normalisasi/pengayaan | 86 |
+| `matches.json` | Hasil pertandingan regular season dan playoffs | 480 |
+
+Beberapa preprocessing yang dilakukan:
+
+- normalisasi nama tim, misalnya `Fnatic ONIC` menjadi `ONIC`, `RRQ Hoshi` menjadi `RRQ`, dan `Team Vitality` menjadi `Bigetron`;
+- parsing `date_range` menjadi `start_date` dan `end_date`;
+- parsing `prize_pool` menjadi angka `prize_pool_usd`;
+- pemisahan lokasi season menjadi beberapa lokasi;
+- parsing record seperti `12-4` menjadi kolom numerik wins/losses;
+- normalisasi role pemain menjadi `EXP Laner`, `Gold Laner`, `Jungler`, `Mid Laner`, dan `Roamer`;
+- pembersihan role `DNP` karena bukan role roster aktif.
+
+## ERD dan Model Relasional
+
+ERD konseptual:
+
+![ERD](<Data Storing/design/MPL Database-ERD.png>)
+
+Model relasional:
+
+![Model Relasional](<Data Storing/design/MPL Database-Model Relasional.png>)
+
+Entitas utama pada ERD adalah `season`, `team`, `person`, `match`, dan `award_type`. Relasi pentingnya adalah:
+
+- `participates_in` antara `season` dan `team`, diterjemahkan menjadi tabel `team_season`;
+- `listed_on_roster` antara `person`, `team`, dan `season`, diterjemahkan menjadi tabel `roster`;
+- `contains` antara `season` dan `match`, diterjemahkan dengan foreign key `season_number` pada tabel `matches`;
+- `plays_in` antara `team` dan `match`, diterjemahkan menjadi tabel `match_team`;
+- `receives` antara entry roster dan award, diterjemahkan menjadi tabel `roster_award`.
+
+Pada implementasi MariaDB, tabel `match` diberi nama `matches` agar tidak bentrok dengan reserved word. Atribut `location` pada season dipisahkan menjadi `season_location` karena satu season dapat berlangsung di lebih dari satu kota.
+
+Constraint yang diimplementasikan meliputi primary key, foreign key, unique constraint, check constraint, dan trigger. Trigger digunakan untuk memastikan tim pada `match_team` memang berpartisipasi pada season pertandingan tersebut, satu match tidak memiliki lebih dari dua tim, dan award seperti Dream Team/First Team/Second Team hanya memiliki satu penerima untuk setiap role utama per season.
+
+## Data Warehouse
+
+Bonus data warehouse dibuat dengan pendekatan star schema.
+
+![Data Warehouse](<Data Warehouse/design/MPL Database-Data Warehouse.png>)
+
+Dimension table:
+
+- `dim_season`
+- `dim_team`
+- `dim_person`
+- `dim_award_type`
+- `dim_role`
+- `dim_match`
+
+Fact table:
+
+- `fact_team_season`, untuk analisis performa tim per season;
+- `fact_team_match`, untuk analisis hasil pertandingan per tim;
+- `fact_award`, untuk analisis distribusi award berdasarkan season, tim, person, dan role.
+
+Contoh query analitik disediakan pada `Data Warehouse/src/analytics_queries.sql`.
+
+## Query Optimasi
+
+Bonus query optimasi disimpan pada `Query Optimasi/query_optimasi.sql`. File tersebut berisi tiga optimasi:
+
+- ringkasan award per season dan tim;
+- riwayat pertandingan sebuah tim pada season tertentu;
+- pencarian roster utama berdasarkan season, tim, dan status roster.
+
+Setiap query menampilkan `EXPLAIN` dan output sebelum dan sesudah indeks tambahan dibuat, sehingga hasil query dapat dibandingkan dengan rencana eksekusinya.
+
+## Screenshot
+
+Contoh bukti penyimpanan data pada MariaDB:
+
+![Row Counts](<Data Storing/screenshot/01_table_row_counts.png>)
+
+![Season 17 Standings](<Data Storing/screenshot/02_season17_team_standings.png>)
+
+![Award Role Validation](<Data Storing/screenshot/06_team_award_role_validation.png>)
+
+Contoh bukti data warehouse:
+
+![DW Row Counts](<Data Warehouse/screenshot/01_dw_table_row_counts.png>)
+
+![DW Team Match Summary](<Data Warehouse/screenshot/03_dw_team_match_summary.png>)
+
+Contoh bukti query optimasi:
+
+![Award Optimization](<Query Optimasi/screenshot/01_award_optimization.png>)
+
+![Roster Optimization](<Query Optimasi/screenshot/04_roster_optimization.png>)
+
+## Penggunaan AI
+
+AI digunakan sebagai asisten diskusi dan review teknis selama pengerjaan, terutama untuk:
+
+- membantu mengecek konsistensi hasil scraping dan normalisasi data;
+- mendiskusikan rancangan ERD, model relasional, dan skema data warehouse;
+- membantu menulis serta merapikan script SQL/Python;
+- membantu mengecek dokumentasi, komentar, dan struktur repository.
+
+Bagian yang tetap dikerjakan dan divalidasi oleh penulis meliputi pemilihan topik, pengecekan sumber data, pengambilan screenshot bukti, eksekusi MariaDB lokal, keputusan scope S12-S17, serta pengecekan akhir sebelum submission.
+
+Refleksi penggunaan AI: bantuan AI paling berguna pada tahap review karena dapat menemukan inkonsistensi kecil, misalnya alias nama tim, role roster, dan constraint database. Namun hasilnya tetap perlu dicek manual terhadap data asli dan hasil query MariaDB, karena keputusan seperti pengurangan scope, pemilihan atribut yang disimpan, dan bukti screenshot tetap bergantung pada konteks tugas dan validasi langsung.
+
+## Referensi
+
+- Liquipedia MPL Indonesia: <https://liquipedia.net/mobilelegends/MPL_Indonesia>
+- Halaman season Liquipedia MPL Indonesia Season 12-17
+- Python `requests`
+- BeautifulSoup (`beautifulsoup4`)
+- MariaDB
