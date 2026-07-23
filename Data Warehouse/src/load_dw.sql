@@ -1,5 +1,5 @@
--- ETL script from the normalized OLTP database into the warehouse.
--- Prerequisite: database mpl_indonesia already exists and is populated.
+-- Script ETL dari database OLTP ternormalisasi ke data warehouse.
+-- Prasyarat: database mpl_indonesia sudah ada dan sudah terisi.
 
 USE mpl_indonesia_dw;
 

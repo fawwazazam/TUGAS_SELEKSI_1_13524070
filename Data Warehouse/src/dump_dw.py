@@ -1,7 +1,7 @@
 """
-Export the MPL Indonesia data warehouse into Data Warehouse/export/mpl_indonesia_dw.sql.
+Ekspor data warehouse MPL Indonesia ke Data Warehouse/export/mpl_indonesia_dw.sql.
 
-Run after load_dw.py:
+Jalankan setelah load_dw.py:
     python "Data Warehouse/src/dump_dw.py" --user root --password --disable-ssl
 """
 
@@ -22,13 +22,13 @@ def main():
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=3306)
     parser.add_argument("--user", default="root")
-    parser.add_argument("--password", action="store_true", help="Prompt for password")
-    parser.add_argument("--disable-ssl", action="store_true", help="Pass --ssl=0 to the dump client")
+    parser.add_argument("--password", action="store_true", help="Minta password")
+    parser.add_argument("--disable-ssl", action="store_true", help="Kirim --ssl=0 ke client dump")
     args = parser.parse_args()
 
     env = os.environ.copy()
     if args.password:
-        env["MYSQL_PWD"] = getpass.getpass("MariaDB password: ")
+        env["MYSQL_PWD"] = getpass.getpass("Password MariaDB: ")
 
     command = [
         args.dump_client,
@@ -48,7 +48,7 @@ def main():
     if result.returncode != 0:
         raise SystemExit(result.returncode)
 
-    print(f"Exported {OUT_FILE}")
+    print(f"Berhasil ekspor ke {OUT_FILE}")
 
 
 if __name__ == "__main__":

@@ -1,12 +1,11 @@
 """
-Scraper data season MPL Indonesia, dari tabel "Events" di hub page
+Ambil data season MPL Indonesia dari tabel "Events" pada halaman hub:
 https://liquipedia.net/mobilelegends/MPL_Indonesia.
 
-Tabel Events isinya semua season sekaligus (bukan per-page kayak
-scrape_teams.py dkk), jadi SEASON_RANGE difilter manual di sini biar
-scope-nya konsisten (S12-S17).
+Tabel Events berisi semua season, jadi SEASON_RANGE diterapkan manual agar
+output tetap terbatas pada S12-S17.
 
-Output: data/seasons.json
+File keluaran: data/seasons.json
 """
 
 import re
@@ -20,12 +19,12 @@ KNOWN_LOCATIONS = ("Jakarta", "Bandung", "Tangerang")
 
 
 def _find_events_table(soup):
-    # cari lewat heading, bukan class - class Liquipedia sering berubah
+    # Cari lewat heading karena class CSS Liquipedia cukup sering berubah.
     heading = soup.find(id="Events")
     if heading is None:
-        raise RuntimeError("Section 'Events' tidak ditemukan, cek struktur halaman manual")
+        raise RuntimeError("Bagian 'Events' tidak ditemukan, cek struktur halaman manual")
 
-    # id section kadang langsung di <h2>, kadang di <span> nested (skin lama)
+    # Beberapa skin menaruh id pada heading, lainnya pada span di dalam heading.
     if heading.name in ("h2", "h3"):
         section = heading
     else:
@@ -43,8 +42,7 @@ def _column_index(header_cells):
 
 
 def _cell_text(cell):
-    # Winner/Runner-up/Tournament kadang isinya cuma logo, teks-nya kosong -
-    # coba ambil dari alt gambar kalau begitu
+    # Sel Winner/Runner-up/Tournament kadang hanya berisi logo.
     text = utils.clean_text(cell.get_text())
     if text:
         return text
@@ -66,7 +64,7 @@ def _team_text(cell):
 
 
 def _parse_date_range(text):
-    text = re.sub(r"\s+[-–—]\s+", " - ", text)
+    text = re.sub(r"\s+(?:-|\u2013|\u2014)\s+", " - ", text)
     start_text, end_text = text.split(" - ", 1)
     end_date = datetime.strptime(end_text, "%b %d, %Y").date()
 
@@ -101,8 +99,7 @@ def scrape_seasons():
         if not cells:
             continue
 
-        # baris data punya cell lebih banyak dari header (ada logo tim di
-        # depan) - hitung selisihnya, jangan asumsikan selalu sama
+        # Baris data bisa punya sel logo tambahan dibanding header.
         offset = max(0, len(cells) - header_len)
 
         def col_cell(name, cells=cells, offset=offset):

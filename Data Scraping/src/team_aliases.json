@@ -1,5 +1,5 @@
 {
-  "_readme": "Mapping nama tim mentah -> canonical_name, dipakai scrape_teams.py buat normalisasi. Cuma nyimpen grup yang beneran muncul di scope S12-S17 - alias historis lain (Geek Slate, Aerowolf, dst) dibuang karena ga kepake.",
+  "_readme": "Pemetaan nama tim mentah ke canonical_name untuk normalisasi. Hanya alias yang muncul pada cakupan S12-S17 yang disimpan.",
   "groups": [
     {
       "canonical_name": "RRQ",

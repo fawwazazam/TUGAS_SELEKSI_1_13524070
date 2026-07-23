@@ -1,8 +1,8 @@
--- Star schema for the MPL Indonesia warehouse.
--- Grain:
---   fact_team_match  = one row per team in one match
---   fact_team_season = one row per team in one season
---   fact_award       = one row per roster award
+-- Skema bintang untuk data warehouse MPL Indonesia.
+-- Level detail data:
+--   fact_team_match  = satu baris per tim dalam satu pertandingan
+--   fact_team_season = satu baris per tim dalam satu musim
+--   fact_award       = satu baris per penghargaan roster
 
 DROP DATABASE IF EXISTS mpl_indonesia_dw;
 CREATE DATABASE mpl_indonesia_dw

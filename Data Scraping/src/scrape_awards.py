@@ -1,24 +1,22 @@
 """
-Scraper untuk section "Player awards" di hub page MPL Indonesia.
+Scraper untuk bagian "Player awards" pada halaman hub MPL Indonesia.
 
 Ada 2 pola tabel:
-1. Long format (Regular_Season_MVP, Finals_MVP, Most_Improved, Rising_Star,
+1. Format panjang (Regular_Season_MVP, Finals_MVP, Most_Improved, Rising_Star,
    Rookie_of_The_Season): tiap baris = Season | Player | Team.
-2. Wide format (Dream_Team, First_Team, Second_Team): kolom dikelompokkan
+2. Format lebar (Dream_Team, First_Team, Second_Team): kolom dikelompokkan
    per beberapa season, ditandai header "Role" yang berulang tiap awal
    grup. Tiap baris = satu role, isinya player+team per season dalam grup itu.
 
-Role di Dream_Team pakai taksonomi kelas hero (Fighter/Assassin/Mage/
-Marksman/Tank), beda dari First_Team/Second_Team yang pakai taksonomi lane
-(EXP Lane/Jungle/Mid Lane/Gold Lane/Roamer) - bukan bug, sumber datanya
-emang beda. Role disimpan apa adanya per sumber, tidak dipaksa diseragamkan.
+First_Team dan Second_Team menyimpan lane role lewat icon. Dream_Team memakai
+icon kelas hero di sumber, jadi role Dream_Team sengaja dikosongkan di scraper
+ini lalu diisi dari roster oleh enrich_awards_role.py.
 
-Role diekstrak dari nama file icon di href (alt/title-nya kosong), contoh:
-    /mobilelegends/File:Mobile_Legends_Fighter_icon.png -> "Fighter"
-    /mobilelegends/File:Mobile_Legends_EXP_Lane.png     -> "EXP Lane"
+Lane role diekstrak dari nama file icon di href (alt/title-nya kosong), contoh:
+    /mobilelegends/File:Mobile_Legends_EXP_Lane.png -> "EXP Lane"
 
-Test 1 section: python scrape_awards.py Regular_Season_MVP
-Full run:       python scrape_awards.py
+Tes 1 bagian: python scrape_awards.py Regular_Season_MVP
+Jalankan penuh: python scrape_awards.py
 """
 
 import re
@@ -38,8 +36,7 @@ LONG_FORMAT_SECTIONS = {
 }
 
 WIDE_FORMAT_SECTIONS = {
-    # Dream_Team icon-nya kelas hero (Fighter/Assassin/dst), bukan lane
-    # player, jadi extract_role=False - role dibiarin None kayak award lain
+    # Role Dream Team diisi dari roster karena icon sumbernya adalah kelas hero.
     "Dream_Team": {"award_type": "Dream Team", "extract_role": False},
     "First_Team": {"award_type": "First Team", "extract_role": True},
     "Second_Team": {"award_type": "Second Team", "extract_role": True},
@@ -47,7 +44,7 @@ WIDE_FORMAT_SECTIONS = {
 
 
 def _parse_role_from_icon_cell(cell):
-    """Ambil nama role dari filename icon di href, karena alt/title-nya kosong."""
+    """Ambil label lane role dari nama file icon."""
     a = cell.find("a", class_="image")
     if not a or not a.get("href"):
         return None
@@ -89,8 +86,7 @@ def _parse_season_number(text):
 
 
 def _parse_wide_header(header_row):
-    """Scan header row: tiap cell "Role" mulai grup baru, cell sesudahnya
-    sampai "Role" berikutnya adalah kolom season di grup itu."""
+    """Ambil grup kolom Role/Season yang berulang pada header format lebar."""
     cells = header_row.find_all(["th", "td"])
     groups = []
     current = None
@@ -114,7 +110,7 @@ def _parse_wide_header(header_row):
 def _find_award_table(soup, section_id):
     tables = utils.find_tables_in_section(soup, section_id)
     if not tables:
-        raise RuntimeError(f"Section '{section_id}': tabel tidak ketemu")
+        raise RuntimeError(f"Bagian '{section_id}': tabel tidak ditemukan")
     return tables[0]
 
 
@@ -159,11 +155,11 @@ def scrape_wide_format(soup, section_id, award_type, extract_role=True):
     table = _find_award_table(soup, section_id)
     rows = table.find_all("tr")
     if not rows:
-        raise RuntimeError(f"Section '{section_id}': tabel kosong")
+        raise RuntimeError(f"Bagian '{section_id}': tabel kosong")
 
     groups = _parse_wide_header(rows[0])
     if not groups:
-        raise RuntimeError(f"Section '{section_id}': header grup 'Role' tidak ketemu")
+        raise RuntimeError(f"Bagian '{section_id}': header grup 'Role' tidak ditemukan")
 
     results = []
     for row in rows[1:]:
@@ -192,8 +188,7 @@ def scrape_wide_format(soup, section_id, award_type, extract_role=True):
 
 
 def scrape_all_awards():
-    """Beda dari scrape_teams.py: tabel di hub page ini isinya semua season
-    sekaligus, bukan loop per season page - jadi scope difilter manual di sini."""
+    """Ambil tabel award dari hub page dan batasi hasil sesuai SEASON_RANGE."""
     allowed_seasons = set(config.SEASON_RANGE)
     soup = utils.get_soup(config.HUB_PAGE)
     all_results = []
@@ -215,8 +210,8 @@ def scrape_all_awards():
     filtered = [r for r in all_results if r["season_number"] in allowed_seasons]
     dropped = len(all_results) - len(filtered)
     if dropped:
-        print(f"[INFO] {dropped} baris award di luar scope season "
-              f"({min(allowed_seasons)}-{max(allowed_seasons)}) dibuang")
+        print(f"[INFO] {dropped} baris award di luar cakupan season "
+              f"({min(allowed_seasons)}-{max(allowed_seasons)}) diabaikan")
 
     return filtered
 
@@ -232,7 +227,7 @@ if __name__ == "__main__":
             cfg = WIDE_FORMAT_SECTIONS[section]
             rows = scrape_wide_format(soup, section, cfg["award_type"], extract_role=cfg["extract_role"])
         else:
-            print(f"Section '{section}' tidak dikenal. Pilihan:")
+            print(f"Bagian '{section}' tidak dikenal. Pilihan:")
             print(list(LONG_FORMAT_SECTIONS) + list(WIDE_FORMAT_SECTIONS))
             sys.exit(1)
 

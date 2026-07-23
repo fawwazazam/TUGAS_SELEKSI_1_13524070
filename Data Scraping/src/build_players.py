@@ -1,11 +1,8 @@
 """
-Assembly players.json dari rosters.json. Bukan scraper baru, cuma
-post-processing dari data yang udah di-scrape. Jalanin SETELAH scrape_rosters.py.
+Bentuk players.json dari data roster yang sudah dinormalisasi.
 
-Dedup pakai player_name (canonical, dari title attribute link Liquipedia),
-bukan player_name_raw (nickname bisa beda tiap season).
-
-Cara pakai: python build_players.py
+Pemain didedup berdasarkan player_name kanonik dari title link Liquipedia,
+bukan player_name_raw karena nickname bisa berbeda antar season.
 """
 
 import config

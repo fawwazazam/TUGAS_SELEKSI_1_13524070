@@ -2,7 +2,7 @@
 
 import os
 
-# identitas asli di User-Agent (bukan Mozilla/5.0), sesuai etika di panduan scraping
+# Identitas asli di User-Agent, sesuai etika pada panduan scraping.
 NAMA = "A. Fawwaz Azam Wicaksono"
 NIM = "13524070"
 EMAIL = f"{NIM}@std.stei.itb.ac.id"
@@ -13,7 +13,7 @@ BASE_URL = "https://liquipedia.net"
 WIKI_PATH = "/mobilelegends"
 HUB_PAGE = BASE_URL + WIKI_PATH + "/MPL_Indonesia"
 
-# scope final S12-S17 (era franchise, format paling stabil) - alasan penuh di README
+# Cakupan final S12-S17; alasan lengkap ditulis di README.
 SEASON_RANGE = range(12, 18)
 
 
@@ -27,7 +27,7 @@ def season_urls(season_number):
     }
 
 
-# rate limit ke server liquipedia
+# Rate limit ke server Liquipedia.
 REQUEST_DELAY_SECONDS = 2.0
 MAX_RETRIES = 3
 RETRY_BACKOFF_SECONDS = 5.0

@@ -1,5 +1,5 @@
 {
-  "_comment": "5 role player yang valid: EXP Laner, Jungler, Mid Laner, Gold Laner, Roamer. Role kelas hero (Fighter/Assassin/Mage/Marksman/Tank dari Dream_Team) SENGAJA TIDAK masuk sini karena itu bukan role player - lihat catatan di scrape_awards.py.",
+  "_comment": "Alias untuk 5 role lane pemain yang valid. Role staff disimpan langsung dari roster; role Dream Team diisi dari roster saat pengayaan data.",
   "groups": [
     {
       "canonical_name": "EXP Laner",

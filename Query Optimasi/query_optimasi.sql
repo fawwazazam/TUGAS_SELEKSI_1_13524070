@@ -1,14 +1,14 @@
 USE mpl_indonesia;
 
--- Query Optimasi 1: award summary by season and team.
+-- Query Optimasi 1: ringkasan award per musim dan tim.
 -- Fungsi:
 --   Menghitung jumlah penghargaan yang diterima setiap tim pada Season 16.
 -- Optimasi:
 --   Query analitik award sering dimulai dari filter season_number, sedangkan
---   primary key roster_award diawali person_id. Tanpa index tambahan, DBMS
+--   kunci primer roster_award diawali person_id. Tanpa indeks tambahan, DBMS
 --   harus membaca lebih banyak baris roster_award sebelum memfilter season.
---   Query setelah optimasi memakai FORCE INDEX agar MariaDB memilih index
---   season-based yang memang ditujukan untuk pola query ini. Output sebelum
+--   Query setelah optimasi memakai FORCE INDEX agar MariaDB memilih indeks
+--   berbasis season_number yang memang ditujukan untuk pola query ini. Hasil sebelum
 --   dan sesudah optimasi tetap sama, tetapi akses roster_award menjadi lebih
 --   terarah berdasarkan season_number.
 
@@ -61,18 +61,18 @@ GROUP BY ra.season_number, t.team_name
 ORDER BY award_count DESC, t.team_name;
 
 
--- Query Optimasi 2: team match history lookup.
+-- Query Optimasi 2: pencarian riwayat pertandingan tim.
 -- Fungsi:
 --   Menampilkan riwayat pertandingan sebuah tim pada season tertentu, termasuk
 --   lawan dan skor kedua tim.
 -- Optimasi:
 --   Query ini memfilter pertandingan berdasarkan season_number, lalu membaca
---   atribut match untuk ditampilkan. Index tambahan pada matches menjadi
---   covering index untuk pola filter season + output detail match.
+--   atribut pertandingan untuk ditampilkan. Indeks tambahan pada matches
+--   menjadi covering index untuk pola filter season_number dan output detail pertandingan.
 
--- MariaDB membutuhkan index pada matches.season_number untuk foreign key
--- fk_match_season. Index kecil berikut menjaga foreign key tetap punya index
--- pendukung, sehingga index optimasi detail bisa dihapus saat reset demo.
+-- MariaDB membutuhkan indeks pada matches.season_number untuk kunci asing
+-- fk_match_season. Indeks kecil berikut menjaga kunci asing tetap punya indeks
+-- pendukung, sehingga indeks optimasi detail bisa dihapus saat file dijalankan ulang.
 CREATE INDEX IF NOT EXISTS idx_matches_season_fk
   ON matches (season_number);
 
@@ -168,13 +168,13 @@ WHERE t.team_name = 'ONIC'
 ORDER BY m.match_id;
 
 
--- Query Optimasi 3: roster lookup by season, team, and roster status.
+-- Query Optimasi 3: pencarian roster berdasarkan season, tim, dan status roster.
 -- Fungsi:
 --   Menampilkan roster utama sebuah tim pada season tertentu.
 -- Optimasi:
---   Primary key roster diawali person_id, sedangkan query roster biasanya
---   difilter berdasarkan season_number, team_id, dan roster_status. Index
---   tambahan ini membuat akses roster per tim-season lebih efisien.
+--   Kunci primer roster diawali person_id, sedangkan query roster biasanya
+--   difilter berdasarkan season_number, team_id, dan roster_status. Indeks
+--   tambahan ini membuat akses roster per tim dan season lebih efisien.
 
 DROP INDEX IF EXISTS idx_roster_team_season_status ON roster;
 

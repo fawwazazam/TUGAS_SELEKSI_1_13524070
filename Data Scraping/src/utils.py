@@ -1,4 +1,4 @@
-"""Fungsi bantu scraping MPL Indonesia: fetch+cache, cleaning teks, simpan/baca JSON."""
+"""Fungsi bantu bersama untuk pengambilan HTML, cache, pembersihan teks, dan file JSON."""
 
 import os
 import re
@@ -36,7 +36,7 @@ def _cache_path(url):
 
 
 def fetch_html(url, use_cache=True):
-    """Ambil HTML dari url, baca dari cache kalau sudah pernah di-fetch."""
+    """Ambil HTML dari URL, memakai cache lokal jika tersedia."""
     cache_file = _cache_path(url)
     if use_cache and os.path.exists(cache_file):
         logger.info(f"[cache] {url}")
@@ -47,7 +47,7 @@ def fetch_html(url, use_cache=True):
     for attempt in range(1, config.MAX_RETRIES + 1):
         try:
             _wait_for_rate_limit()
-            logger.info(f"[fetch] {url} (percobaan {attempt}/{config.MAX_RETRIES})")
+            logger.info(f"[ambil] {url} (percobaan {attempt}/{config.MAX_RETRIES})")
             resp = requests.get(url, headers=config.HEADERS, timeout=15)
             resp.raise_for_status()
 
@@ -58,22 +58,22 @@ def fetch_html(url, use_cache=True):
 
         except requests.RequestException as e:
             last_error = e
-            logger.warning(f"Gagal fetch {url}: {e}, retry {config.RETRY_BACKOFF_SECONDS}s lagi")
+            logger.warning(f"Gagal mengambil {url}: {e}, coba ulang {config.RETRY_BACKOFF_SECONDS}s lagi")
             time.sleep(config.RETRY_BACKOFF_SECONDS)
 
-    raise RuntimeError(f"Gagal fetch {url} setelah {config.MAX_RETRIES}x coba: {last_error}")
+    raise RuntimeError(f"Gagal mengambil {url} setelah {config.MAX_RETRIES}x coba: {last_error}")
 
 
 def get_soup(url, use_cache=True):
-    """fetch_html + parse ke BeautifulSoup."""
+    """Ambil HTML lalu parse dengan BeautifulSoup."""
     return BeautifulSoup(fetch_html(url, use_cache=use_cache), "html.parser")
 
 
 def find_heading(soup, section_id):
-    """Cari heading h2/h3/h4 lewat id-nya. Handle id di span nested (skin MediaWiki lama)."""
+    """Cari heading h2/h3/h4 berdasarkan id bagian."""
     el = soup.find(id=section_id)
     if el is None:
-        raise RuntimeError(f"Section '{section_id}' tidak ditemukan di halaman")
+        raise RuntimeError(f"Bagian '{section_id}' tidak ditemukan di halaman")
     if el.name in ("h2", "h3", "h4"):
         return el
     return el.find_parent(["h2", "h3", "h4"])
@@ -81,9 +81,8 @@ def find_heading(soup, section_id):
 
 def find_tables_in_section(soup, section_id, max_tables=5):
     """
-    Ambil semua <table> di antara heading section_id sampai heading
-    level sama/lebih tinggi berikutnya. Return list karena satu section
-    kadang punya beberapa tabel (misal tabel legend sebelum tabel data asli).
+    Ambil tabel di antara heading bagian dan heading berikutnya dengan level
+    yang sama atau lebih tinggi.
     """
     heading = find_heading(soup, section_id)
     level = int(heading.name[1])
@@ -100,7 +99,7 @@ def find_tables_in_section(soup, section_id, max_tables=5):
 
 
 def clean_text(text):
-    """Buang tanda referensi kayak [1], rapikan whitespace, trim."""
+    """Hapus penanda referensi, rapikan whitespace, dan trim teks."""
     if not text:
         return ""
     text = re.sub(r"\[\d+\]", "", text)
@@ -109,7 +108,7 @@ def clean_text(text):
 
 
 def link_title(link):
-    """title attribute <a>, dibuang suffix redlink MediaWiki ' (page does not exist)'."""
+    """Ambil title link tanpa suffix redlink bawaan MediaWiki."""
     if link is None:
         return None
     title = clean_text(link.get("title"))

@@ -1,4 +1,4 @@
--- Example analytics queries for validating and presenting the warehouse.
+-- Contoh query analitik untuk validasi dan presentasi warehouse.
 
 USE mpl_indonesia_dw;
 

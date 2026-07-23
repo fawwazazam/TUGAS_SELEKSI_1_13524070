@@ -1,7 +1,7 @@
 """
-Create and populate the MariaDB database from schema.sql and generated JSON data.
+Buat dan isi database MariaDB dari schema.sql dan data JSON hasil generate.
 
-Run from the repository root:
+Jalankan dari root repository:
     python "Data Storing/src/load_db.py" --user root --password
 """
 
@@ -42,20 +42,20 @@ def run_sql_file(sql_file, args, password):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--client", default="mariadb", help="MariaDB client executable")
+    parser.add_argument("--client", default="mariadb", help="Program client MariaDB")
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=3306)
     parser.add_argument("--user", default="root")
-    parser.add_argument("--password", action="store_true", help="Prompt for password")
-    parser.add_argument("--disable-ssl", action="store_true", help="Pass --ssl=0 to the client")
+    parser.add_argument("--password", action="store_true", help="Minta password")
+    parser.add_argument("--disable-ssl", action="store_true", help="Kirim --ssl=0 ke client")
     args = parser.parse_args()
 
     subprocess.run([sys.executable, str(GENERATE_SQL)], check=True)
-    password = getpass.getpass("MariaDB password: ") if args.password else ""
+    password = getpass.getpass("Password MariaDB: ") if args.password else ""
 
     run_sql_file(SCHEMA_SQL, args, password)
     run_sql_file(LOAD_SQL, args, password)
-    print("Database mpl_indonesia created and populated.")
+    print("Database mpl_indonesia berhasil dibuat dan diisi.")
 
 
 if __name__ == "__main__":

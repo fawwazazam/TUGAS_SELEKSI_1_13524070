@@ -1,7 +1,7 @@
 """
-Export the populated MariaDB database into Data Storing/export/mpl_indonesia.sql.
+Ekspor database MariaDB yang sudah terisi ke Data Storing/export/mpl_indonesia.sql.
 
-Run after load_db.py:
+Jalankan setelah load_db.py:
     python "Data Storing/src/dump_db.py" --user root --password
 """
 
@@ -22,13 +22,13 @@ def main():
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=3306)
     parser.add_argument("--user", default="root")
-    parser.add_argument("--password", action="store_true", help="Prompt for password")
-    parser.add_argument("--disable-ssl", action="store_true", help="Pass --ssl=0 to the dump client")
+    parser.add_argument("--password", action="store_true", help="Minta password")
+    parser.add_argument("--disable-ssl", action="store_true", help="Kirim --ssl=0 ke client dump")
     args = parser.parse_args()
 
     env = os.environ.copy()
     if args.password:
-        env["MYSQL_PWD"] = getpass.getpass("MariaDB password: ")
+        env["MYSQL_PWD"] = getpass.getpass("Password MariaDB: ")
 
     command = [
         args.dump_client,
@@ -48,7 +48,7 @@ def main():
     if result.returncode != 0:
         raise SystemExit(result.returncode)
 
-    print(f"Exported {OUT_FILE}")
+    print(f"Berhasil ekspor ke {OUT_FILE}")
 
 
 if __name__ == "__main__":

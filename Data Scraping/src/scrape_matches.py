@@ -1,11 +1,10 @@
 """
-Scraper match results, dari 2 sumber beda per stage:
+Scraper hasil pertandingan, dari 2 sumber berbeda per tahap:
 - Regular Season: widget "brkts-matchlist" di /Season_N/Regular_Season
 - Playoffs: tabel biasa (table2__table) di /Season_N/Playoffs
 
-Scope: cuma skor akhir per matchup (mis. "2-1"), bukan detail tiap game
-individual di dalam best-of-N (hero pick, durasi, dll - ada di popup match,
-effort-nya jauh lebih besar, dievaluasi terpisah). Dicatat di README.
+Ruang lingkup: hanya skor akhir matchup, bukan detail per game seperti hero pick atau
+durasi game.
 """
 
 import re
@@ -18,9 +17,7 @@ from scrape_teams import normalize_team_name
 
 def _find_week_headings(soup):
     """
-    Cari heading yang id-nya match pola minggu pertandingan. Konvensi id
-    beda antar era (RS:_Week_N vs Week_N polos), jumlah minggu juga beda
-    tiap season - jangan hardcode.
+    Cari heading minggu pada halaman season dengan format id yang berbeda-beda.
     """
     headings = []
     for h in soup.find_all(["h2", "h3", "h4"]):
@@ -34,7 +31,7 @@ def _find_week_headings(soup):
 
 
 def _matchlist_div_for_heading(heading_tag):
-    """MediaWiki bungkus heading dalam div.mw-heading - isi section ada di
+    """MediaWiki membungkus heading dalam div.mw-heading; isi bagian ada di
     sibling div itu, bukan sibling <h3> langsung."""
     header_tag = heading_tag if heading_tag.name in ("h2", "h3", "h4") else heading_tag.find_parent(["h2", "h3", "h4"])
     wrapper = header_tag.find_parent("div", class_="mw-heading")
@@ -69,7 +66,7 @@ def _parse_single_match(match_div):
     elif "brkts-matchlist-slot-winner" in b_classes:
         winner_raw = team_b_raw
     else:
-        winner_raw = None  # belum dimainkan / belum ke-detect
+        winner_raw = None
 
     return {
         "team_a": normalize_team_name(team_a_raw),
@@ -110,8 +107,7 @@ def _parse_week(matchlist_div, week_number, season_number):
 
 
 def _parse_playoffs_score_cell(cell):
-    """Format "0:<b>3</b>" -> get_text() gabung jadi "0:3". Winner ditentuin
-    dari angka mana yang lebih besar, bukan posisi <b> (lebih robust)."""
+    """Ambil teks skor seperti "0:3" dan tentukan pemenang dari angkanya."""
     div = cell.find("div")
     text = utils.clean_text(div.get_text()) if div else utils.clean_text(cell.get_text())
     parts = text.split(":")
@@ -136,7 +132,7 @@ def scrape_season_playoffs(season_number):
 
     table = soup.find("table", class_="table2__table")
     if table is None:
-        raise RuntimeError(f"Season {season_number}: tabel playoffs tidak ketemu")
+        raise RuntimeError(f"Season {season_number}: tabel playoffs tidak ditemukan")
 
     results = []
     for row in table.find_all("tr", class_="table2__row--body"):
@@ -182,7 +178,7 @@ def _scrape_regular_season(season_number):
 
     week_headings = _find_week_headings(soup)
     if not week_headings:
-        raise RuntimeError(f"Season {season_number}: heading 'RS:_Week_N' tidak ketemu")
+        raise RuntimeError(f"Season {season_number}: heading 'RS:_Week_N' tidak ditemukan")
 
     results = []
     for hid, heading in week_headings:
@@ -191,7 +187,7 @@ def _scrape_regular_season(season_number):
 
         matchlist = _matchlist_div_for_heading(heading)
         if matchlist is None:
-            print(f"[SKIP] Season {season_number} Week {week_number}: div.brkts-matchlist tidak ketemu")
+            print(f"[SKIP] Season {season_number} Week {week_number}: div.brkts-matchlist tidak ditemukan")
             continue
 
         results.extend(_parse_week(matchlist, week_number, season_number))
@@ -200,7 +196,7 @@ def _scrape_regular_season(season_number):
 
 
 def scrape_season_matches(season_number):
-    """Gabungan Regular Season + Playoffs. Kalau salah satu gagal, yang lain tetap jalan."""
+    """Ambil match Regular Season dan Playoffs untuk satu season."""
     results = []
 
     try:
@@ -234,6 +230,6 @@ if __name__ == "__main__":
         rows = scrape_season_matches(season)
         for r in rows:
             print(r)
-        print(f"\nTotal: {len(rows)} match")
+        print(f"\nTotal: {len(rows)} pertandingan")
     else:
         utils.save_json(scrape_all_matches(), "matches.json")

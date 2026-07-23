@@ -1,28 +1,21 @@
 """
-Scraper roster dari section "Participating Teams" di tiap halaman /Season_N
-(bukan hub page, section ini per-season).
+Ambil data roster dari bagian "Participating Teams" pada tiap halaman season.
 
-Scope (keputusan sadar, ditulis di README):
-- Season dibatasi S12-S17 (config.SEASON_RANGE), bukan full S1-S17 - era
-  franchise formatnya paling stabil, waktu pengerjaan terbatas.
-- Cuma tab Main/Subs/Staff yang diproses, tab "Former" di-skip.
-- Captaincy/Vice-Captaincy tidak diambil, bukan prioritas.
+Ruang lingkup:
+- Season dibatasi S12-S17.
+- Hanya tab Main/Subs/Staff yang diproses; Former tidak disimpan.
+- Captaincy dan vice-captaincy tidak disimpan.
 
-Struktur section ini widget div (bukan <table>):
+Bagian ini memakai widget div bertingkat, bukan tabel:
     div.team-participant
       > div.team-participant__grid
         > div.team-participant-card   (1 per tim)
-          > switch-pill-option (label tab Main/Subs/Former/Staff - urutan
-            & jumlah tab beda per tim, jangan hardcode index)
+          > switch-pill-option (label dan urutan tab bisa berbeda per tim)
           > div[data-toggle-area-content=N]  (isi tiap tab)
-            > div.team-participant-card__member  (1 per player/staff)
+            > div.team-participant-card__member  (1 per pemain/staff)
 
-Role player pakai label icon (mis. "Jungler") yang beda penamaan dari role
-di scrape_awards.py (mis. "Jungle") - dinormalisasi lewat role_utils.py.
-Role staff (Head Coach dst) dibiarkan apa adanya, bukan lane position.
-
-Test 1 season: python scrape_rosters.py 17
-Full run:      python scrape_rosters.py
+Label role pemain dinormalisasi melalui role_utils.py. Role staff disimpan
+sesuai label sumber karena bukan lane position.
 """
 
 import sys
@@ -34,7 +27,6 @@ from scrape_teams import normalize_team_name
 
 
 def _season_base_url(season_number):
-    # halaman utama season (ada section Participating Teams) itu base dari regular_season url
     urls = config.season_urls(season_number)
     if "overview" in urls:
         return urls["overview"]
@@ -45,7 +37,7 @@ ALLOWED_STATUS = {"main", "subs", "staff"}
 
 
 def _parse_status_map(card):
-    """Baca label tab & value toggle-nya per tim - urutan/jumlah tab beda-beda, jangan hardcode."""
+    """Petakan nilai toggle tiap tab ke label status roster."""
     status_map = {}
     for pill in card.find_all("div", class_="switch-pill-option"):
         value = pill.get("data-switch-value")
@@ -111,6 +103,7 @@ def scrape_team_roster(card, season_number):
             parsed = _parse_member(m)
             if parsed is None:
                 continue
+            # DNP bukan role roster aktif, jadi tidak disimpan.
             if parsed["role"] == "DNP":
                 continue
             results.append({
@@ -129,11 +122,11 @@ def scrape_season_rosters(season_number):
 
     container = soup.find("div", class_="team-participant")
     if container is None:
-        raise RuntimeError(f"Season {season_number}: div.team-participant tidak ketemu")
+        raise RuntimeError(f"Season {season_number}: div.team-participant tidak ditemukan")
 
     cards = container.find_all("div", class_="team-participant-card")
     if not cards:
-        raise RuntimeError(f"Season {season_number}: team-participant-card tidak ketemu")
+        raise RuntimeError(f"Season {season_number}: team-participant-card tidak ditemukan")
 
     results = []
     for card in cards:

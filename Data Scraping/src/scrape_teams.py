@@ -1,17 +1,17 @@
 """
-Scraper final standings tiap season MPL Indonesia, dari tabel di section
+Scraper final standings tiap season MPL Indonesia, dari tabel di bagian
 "Regular_Season" pada halaman /Season_N/Regular_Season.
 
 Menghasilkan:
 - data/teams.json        -> daftar master tim (nama unik, sudah dinormalisasi)
-- data/team_seasons.json -> final_rank, match_record, game_record, diff per tim per season
+- data/team_seasons.json -> rank, win/loss match, dan win/loss game per team-season
 
-Catatan: status partisipasi (FRA/INV/Q/NQ) sengaja tidak diambil - sumbernya
-(tabel "Team participation" di hub page) dimuat lewat JavaScript jadi ga
-kebaca lewat static request. Ini keterbatasan yang ditulis di README.
+Catatan: status partisipasi (FRA/INV/Q/NQ) tidak diambil karena tabel
+"Team participation" dimuat melalui JavaScript dan tidak tersedia pada
+request statis.
 
-Test 1 season: python scrape_teams.py 17
-Full run:      python scrape_teams.py
+Tes 1 season: python scrape_teams.py 17
+Jalankan penuh: python scrape_teams.py
 """
 
 import json
@@ -50,16 +50,15 @@ def _parse_record(text):
 
 
 def _parse_game_record(game_record, diff):
-    # S12 source uses game_record as win rate and diff as "game wins-losses".
-    # S13+ uses game_record as "game wins-losses" and diff as signed delta.
+    # S12 memakai game_record sebagai win rate dan diff sebagai "game wins-losses".
+    # S13+ memakai game_record sebagai "game wins-losses" dan diff sebagai delta.
     return _parse_record(diff if game_record.endswith("%") else game_record)
 
 
 def _final_standings_block(table):
     """
-    Tabel cuma punya satu header di awal, standings tiap minggu (Week 1-9)
-    ditumpuk berurutan tanpa header ulang. Split-nya pakai patokan rank
-    balik ke "1." (nandain minggu baru mulai), blok terakhir = final.
+    Tabel memiliki satu header dan beberapa blok standings mingguan. Blok baru
+    dimulai saat rank kembali ke "1."; blok terakhir adalah standings final.
     """
     data_rows = []
     for row in table.find_all("tr"):
@@ -79,12 +78,12 @@ def _final_standings_block(table):
             current.append(cells)
 
     if not blocks:
-        raise RuntimeError("Blok standings tidak ketemu")
+        raise RuntimeError("Blok standings tidak ditemukan")
     return blocks[-1]
 
 
 def _team_name(cell):
-    # img alt / title link lebih bersih daripada text (ga kebawa simbol naik-turun peringkat)
+    # Alt/title gambar lebih bersih karena tidak membawa simbol perubahan rank.
     img = cell.find("img")
     if img and img.get("alt"):
         return utils.clean_text(img["alt"])
@@ -94,10 +93,10 @@ def _team_name(cell):
         return utils.clean_text(link["title"])
 
     text = utils.clean_text(cell.get_text())
-    return re.sub(r"[▲▼]\d+$", "", text).strip()
+    return re.sub(r"[\u25b2\u25bc]\d+$", "", text).strip()
 
 
-# nama section standings beda-beda antar season, dicoba berurutan
+# Nama bagian standings berbeda antar season.
 STANDINGS_SECTION_CANDIDATES = ["Regular_Season", "Results", "Detailed_Results", "Group_Stage"]
 
 
@@ -112,7 +111,7 @@ def _find_standings_table(soup, season_number):
             last_error = e
             continue
     raise RuntimeError(
-        f"Season {season_number}: section standings ga ketemu dari kandidat "
+        f"Season {season_number}: bagian standings tidak ditemukan dari kandidat "
         f"{STANDINGS_SECTION_CANDIDATES} (error terakhir: {last_error})"
     )
 
