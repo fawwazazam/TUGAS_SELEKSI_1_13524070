@@ -121,6 +121,7 @@ def save_json(data, filename):
     filepath = os.path.join(config.DATA_DIR, filename)
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+        f.write("\n")
     logger.info(f"Tersimpan: {filepath} ({len(data)} entri)")
 
 

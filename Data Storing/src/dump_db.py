@@ -37,6 +37,7 @@ def main():
         "--user", args.user,
         "--protocol=TCP",
         "--default-character-set=utf8mb4",
+        "--skip-dump-date",
         "--databases", "mpl_indonesia",
     ]
     if args.disable_ssl:
